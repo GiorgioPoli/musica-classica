@@ -5,36 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Musica Classica</title>
     <style>
-        body { margin: 0; font-family: -apple-system, sans-serif; background: #f4f4f4; }
-        
-        /* Barra Superiore */
+        body { margin: 0; font-family: -apple-system, sans-serif; background: #f4f4f4; color: #333; }
         .header-fisso { 
             position: fixed; top: 0; width: 100%; height: 60px; 
             background: #2c3e50; color: white; display: none; 
             align-items: center; justify-content: space-between; z-index: 1000;
             padding: 0 10px; box-sizing: border-box;
         }
-
-        /* Lista Compositori */
-        #schermata-lista { padding: 20px; margin-top: 20px; }
-        .riga-compositore { 
+        #schermata-lista, #schermata-composizioni { padding: 20px; margin-top: 10px; }
+        .riga { 
             background: white; padding: 15px; margin-bottom: 10px; 
             border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             display: flex; justify-content: space-between; align-items: center;
         }
-
-        /* Iframe e Contenitore */
-        .wrap-iframe { 
-            margin-top: 60px; width: 100%; height: calc(100vh - 60px); 
-            overflow-y: auto; -webkit-overflow-scrolling: touch; 
-        }
-        iframe { width: 100%; height: 5000px; border: none; pointer-events: none; }
-
-        button { 
-            padding: 8px 12px; cursor: pointer; border-radius: 4px; border: none;
-            background: #3498db; color: white; font-weight: bold;
-        }
+        .wrap-iframe { margin-top: 60px; width: 100%; height: calc(100vh - 60px); overflow-y: auto; -webkit-overflow-scrolling: touch; }
+        iframe { width: 100%; height: 5000px; border: none; pointer-events: none; background: white; }
+        button { padding: 8px 12px; cursor: pointer; border-radius: 4px; border: none; background: #3498db; color: white; font-weight: bold; margin-left: 5px; }
         .btn-indietro { background: #e74c3c; }
+        .nascosto { display: none !important; }
     </style>
 </head>
 <body>
@@ -44,10 +32,19 @@
         <div id="lista-corpo"></div>
     </div>
 
-    <div id="schermata-dettaglio" style="display:none;">
-        <div class="header-fisso" id="testata">
+    <div id="schermata-composizioni" class="nascosto">
+        <div class="header-fisso" style="display: flex;">
+            <button class="btn-indietro" onclick="mostraLista()">Lista</button>
+            <span id="nome-comp-titolo"></span>
+            <div style="width:50px"></div>
+        </div>
+        <div id="lista-brani-corpo" style="margin-top:70px"></div>
+    </div>
+
+    <div id="schermata-dettaglio" class="nascosto">
+        <div class="header-fisso" id="testata" style="display: flex;">
             <button class="btn-indietro" id="btn-back">Indietro</button>
-            <span id="titolo-corrente" style="font-size: 0.9em; text-align: center; flex-grow: 1;"></span>
+            <span id="titolo-corrente" style="font-size: 0.8em; text-align: center; flex-grow: 1; padding: 0 5px;"></span>
             <button id="btn-azione-destra"></button>
         </div>
         <div class="wrap-iframe">
@@ -58,66 +55,95 @@
     <script>
         let datiMusica = [];
 
-        // Carica i dati dal file JSON
+        // Caricamento dati
         fetch('dati.json')
-            .then(response => response.json())
+            .then(res => res.json())
             .then(data => {
                 datiMusica = data;
                 mostraLista();
             });
 
         function mostraLista() {
-            document.getElementById('schermata-lista').style.display = 'block';
-            document.getElementById('schermata-dettaglio').style.display = 'none';
-            document.getElementById('testata').style.display = 'none';
-            
+            gestisciVisibilita('schermata-lista');
             const contenitore = document.getElementById('lista-corpo');
             contenitore.innerHTML = '';
 
-            datiMusica.forEach(item => {
+            datiMusica.forEach((item, index) => {
                 const div = document.createElement('div');
-                div.className = 'riga-compositore';
+                div.className = 'riga';
                 div.innerHTML = `
-                    <span>${item.compositore}</span>
+                    <span style="flex:1">${item.compositore}</span>
                     <div>
-                        <button onclick="apriVita(${item.id})">Vita</button>
-                        <button onclick="apriListaComposizioni(${item.id})">Composizioni</button>
+                        <button onclick="apriVita(${index})">Vita</button>
+                        <button onclick="mostraBrani(${index})">Composizioni</button>
                     </div>
                 `;
                 contenitore.appendChild(div);
             });
         }
 
-        function apriVita(id) {
-            const comp = datiMusica.find(c => c.id === id);
-            configuraDettaglio(comp.compositore, comp.wiki_vita, "Composizioni", () => apriListaComposizioni(id), "Lista", mostraLista);
+        function mostraBrani(indexComp) {
+            gestisciVisibilita('schermata-composizioni');
+            const comp = datiMusica[indexComp];
+            document.getElementById('nome-comp-titolo').innerText = comp.compositore;
+            const contenitore = document.getElementById('lista-brani-corpo');
+            contenitore.innerHTML = '';
+
+            comp.composizioni.forEach((brano, indexBrano) => {
+                const div = document.createElement('div');
+                div.className = 'riga';
+                div.innerHTML = `
+                    <span style="flex:1">${brano.titolo}</span>
+                    <button onclick="apriBrano(${indexComp}, ${indexBrano})">Apri</button>
+                `;
+                contenitore.appendChild(div);
+            });
         }
 
-        function apriListaComposizioni(id) {
-            // Per semplicità, qui apriamo la prima composizione o una lista specifica. 
-            // Seguendo la tua logica del punto 3:
-            const comp = datiMusica.find(c => c.id === id);
-            const primaComp = comp.composizioni[0]; 
-            configuraDettaglio(primaComp.titolo, primaComp.wiki_comp, "YouTube", () => window.open(primaComp.youtube, '_blank'), "Indietro", () => apriVita(id));
+        function apriVita(index) {
+            const comp = datiMusica[index];
+            configuraIframe(
+                comp.compositore, 
+                comp.link_wiki, 
+                "Composizioni", 
+                () => mostraBrani(index), 
+                "Lista", 
+                mostraLista
+            );
         }
 
-        function configuraDettaglio(titolo, url, testoBtnDestra, azioneDestra, testoBtnSinistra, azioneSinistra) {
-            document.getElementById('schermata-lista').style.display = 'none';
-            document.getElementById('schermata-dettaglio').style.display = 'block';
-            document.getElementById('testata').style.display = 'flex';
-            
+        function apriBrano(indexComp, indexBrano) {
+            const brano = datiMusica[indexComp].composizioni[indexBrano];
+            configuraIframe(
+                brano.titolo, 
+                brano.link_wiki_comp, 
+                "YouTube", 
+                () => window.open(brano.link_youtube, '_blank'), 
+                "Indietro", 
+                () => mostraBrani(indexComp)
+            );
+        }
+
+        function configuraIframe(titolo, url, txtR, azioneR, txtL, azioneL) {
+            gestisciVisibilita('schermata-dettaglio');
             document.getElementById('titolo-corrente').innerText = titolo;
             document.getElementById('frame-wiki').src = url;
             
-            const btnSinistra = document.getElementById('btn-back');
-            btnSinistra.innerText = testoBtnSinistra;
-            btnSinistra.onclick = azioneSinistra;
+            const btnL = document.getElementById('back'); // corretto sotto
+            document.getElementById('btn-back').innerText = txtL;
+            document.getElementById('btn-back').onclick = azioneL;
 
-            const btnDestra = document.getElementById('btn-azione-destra');
-            btnDestra.innerText = testoBtnDestra;
-            btnDestra.onclick = azioneDestra;
-            
+            const btnR = document.getElementById('btn-azione-destra');
+            btnR.innerText = txtR;
+            btnR.onclick = azioneR;
             window.scrollTo(0,0);
+        }
+
+        function gestisciVisibilita(idMostrare) {
+            ['schermata-lista', 'schermata-composizioni', 'schermata-dettaglio'].forEach(id => {
+                document.getElementById(id).classList.add('nascosto');
+            });
+            document.getElementById(idMostrare).classList.remove('nascosto');
         }
     </script>
 </body>
