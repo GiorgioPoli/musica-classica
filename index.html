@@ -5,47 +5,65 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Musica Classica</title>
     <style>
-        body { margin: 0; font-family: -apple-system, sans-serif; background: #f4f4f4; color: #333; }
+        body { margin: 0; font-family: -apple-system, system-ui, sans-serif; background: #f0f0f0; color: #1a1a1a; }
+        
+        /* Barre Superiori */
         .header-fisso { 
             position: fixed; top: 0; width: 100%; height: 60px; 
-            background: #2c3e50; color: white; display: none; 
+            background: #ffffff; color: #000; display: flex; 
             align-items: center; justify-content: space-between; z-index: 1000;
-            padding: 0 10px; box-sizing: border-box;
+            padding: 0 10px; box-sizing: border-box; border-bottom: 1px solid #ddd;
         }
-        #schermata-lista, #schermata-composizioni { padding: 20px; margin-top: 10px; }
-        .riga { 
-            background: white; padding: 15px; margin-bottom: 10px; 
-            border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            display: flex; justify-content: space-between; align-items: center;
+
+        /* Liste */
+        #schermata-lista, #schermata-composizioni { padding: 15px; margin-top: 5px; }
+        .riga-container { 
+            display: flex; gap: 10px; margin-bottom: 12px; align-items: stretch;
         }
+
+        /* Pulsanti Generali */
+        button { 
+            background: white; color: black; border: 1px solid #ccc; 
+            padding: 12px; border-radius: 8px; font-size: 15px;
+            cursor: pointer; display: flex; align-items: center; justify-content: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        button:active { background: #e0e0e0; }
+
+        /* Pulsanti specifici */
+        .btn-nome-principale { flex: 3; text-align: left; justify-content: flex-start; font-weight: 500; }
+        .btn-opere-piccolo { flex: 1; font-size: 13px; text-transform: uppercase; font-weight: bold; }
+        .btn-header { padding: 6px 10px; font-size: 13px; font-weight: bold; }
+        .btn-indietro { background: #f8d7da; border-color: #f5c6cb; }
+
+        /* Iframe */
         .wrap-iframe { margin-top: 60px; width: 100%; height: calc(100vh - 60px); overflow-y: auto; -webkit-overflow-scrolling: touch; }
-        iframe { width: 100%; height: 5000px; border: none; pointer-events: none; background: white; }
-        button { padding: 8px 12px; cursor: pointer; border-radius: 4px; border: none; background: #3498db; color: white; font-weight: bold; margin-left: 5px; }
-        .btn-indietro { background: #e74c3c; }
+        iframe { width: 100%; height: 6000px; border: none; pointer-events: none; background: white; }
+
         .nascosto { display: none !important; }
+        #titolo-corrente { font-size: 13px; font-weight: bold; text-align: center; flex: 1; padding: 0 5px; color: #555; }
     </style>
 </head>
 <body>
 
     <div id="schermata-lista">
-        <h2>Compositori</h2>
+        <h2 style="margin-left: 5px;">Compositori</h2>
         <div id="lista-corpo"></div>
     </div>
 
     <div id="schermata-composizioni" class="nascosto">
-        <div class="header-fisso" style="display: flex;">
-            <button class="btn-indietro" onclick="mostraLista()">Lista</button>
-            <span id="nome-comp-titolo"></span>
-            <div style="width:50px"></div>
-        </div>
+        <div class="header-fisso">
+            <button class="btn-header btn-indietro" onclick="mostraLista()">Lista</button>
+            <button class="btn-header" id="btn-comp-vita" style="flex:1; margin: 0 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"></button>
+            <div style="width:50px"></div> </div>
         <div id="lista-brani-corpo" style="margin-top:70px"></div>
     </div>
 
     <div id="schermata-dettaglio" class="nascosto">
-        <div class="header-fisso" id="testata" style="display: flex;">
-            <button class="btn-indietro" id="btn-back">Indietro</button>
-            <span id="titolo-corrente" style="font-size: 0.8em; text-align: center; flex-grow: 1; padding: 0 5px;"></span>
-            <button id="btn-azione-destra"></button>
+        <div class="header-fisso" id="testata">
+            <button class="btn-header btn-indietro" id="btn-back"></button>
+            <span id="titolo-corrente"></span>
+            <button class="btn-header" id="btn-azione-destra"></button>
         </div>
         <div class="wrap-iframe">
             <iframe id="frame-wiki" src=""></iframe>
@@ -55,7 +73,6 @@
     <script>
         let datiMusica = [];
 
-        // Caricamento dati
         fetch('dati.json')
             .then(res => res.json())
             .then(data => {
@@ -70,13 +87,10 @@
 
             datiMusica.forEach((item, index) => {
                 const div = document.createElement('div');
-                div.className = 'riga';
+                div.className = 'riga-container';
                 div.innerHTML = `
-                    <span style="flex:1">${item.compositore}</span>
-                    <div>
-                        <button onclick="apriVita(${index})">Vita</button>
-                        <button onclick="mostraBrani(${index})">Composizioni</button>
-                    </div>
+                    <button class="btn-nome-principale" onclick="apriVita(${index})">${item.compositore}</button>
+                    <button class="btn-opere-piccolo" onclick="mostraBrani(${index})">Opere</button>
                 `;
                 contenitore.appendChild(div);
             });
@@ -85,17 +99,18 @@
         function mostraBrani(indexComp) {
             gestisciVisibilita('schermata-composizioni');
             const comp = datiMusica[indexComp];
-            document.getElementById('nome-comp-titolo').innerText = comp.compositore;
+            
+            const btnVita = document.getElementById('btn-comp-vita');
+            btnVita.innerText = comp.compositore;
+            btnVita.onclick = () => apriVita(indexComp);
+
             const contenitore = document.getElementById('lista-brani-corpo');
             contenitore.innerHTML = '';
 
             comp.composizioni.forEach((brano, indexBrano) => {
                 const div = document.createElement('div');
-                div.className = 'riga';
-                div.innerHTML = `
-                    <span style="flex:1">${brano.titolo}</span>
-                    <button onclick="apriBrano(${indexComp}, ${indexBrano})">Apri</button>
-                `;
+                div.className = 'riga-container';
+                div.innerHTML = `<button class="btn-nome-principale" style="flex:1" onclick="apriBrano(${indexComp}, ${indexBrano})">${brano.titolo}</button>`;
                 contenitore.appendChild(div);
             });
         }
@@ -105,9 +120,9 @@
             configuraIframe(
                 comp.compositore, 
                 comp.link_wiki, 
-                "Composizioni", 
+                "OPERE", 
                 () => mostraBrani(index), 
-                "Lista", 
+                "LISTA", 
                 mostraLista
             );
         }
@@ -117,9 +132,9 @@
             configuraIframe(
                 brano.titolo, 
                 brano.link_wiki_comp, 
-                "YouTube", 
+                "YOUTUBE", 
                 () => window.open(brano.link_youtube, '_blank'), 
-                "Indietro", 
+                "INDIETRO", 
                 () => mostraBrani(indexComp)
             );
         }
@@ -129,9 +144,9 @@
             document.getElementById('titolo-corrente').innerText = titolo;
             document.getElementById('frame-wiki').src = url;
             
-            const btnL = document.getElementById('back'); // corretto sotto
-            document.getElementById('btn-back').innerText = txtL;
-            document.getElementById('btn-back').onclick = azioneL;
+            const btnL = document.getElementById('btn-back');
+            btnL.innerText = txtL;
+            btnL.onclick = azioneL;
 
             const btnR = document.getElementById('btn-azione-destra');
             btnR.innerText = txtR;
