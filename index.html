@@ -1,38 +1,124 @@
 <!DOCTYPE html>
-<html>
+<html lang="it">
 <head>
-    <title>Test Iframe Musica Classica</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Musica Classica</title>
     <style>
-        body { margin: 0; font-family: sans-serif; }
-        .header { 
-            height: 50px; background: #2c3e50; color: white; 
-            display: flex; align-items: center; justify-content: center;
+        body { margin: 0; font-family: -apple-system, sans-serif; background: #f4f4f4; }
+        
+        /* Barra Superiore */
+        .header-fisso { 
+            position: fixed; top: 0; width: 100%; height: 60px; 
+            background: #2c3e50; color: white; display: none; 
+            align-items: center; justify-content: space-between; z-index: 1000;
+            padding: 0 10px; box-sizing: border-box;
         }
-        /* Contenitore per lo scroll */
-        .container {
-            width: 100%;
-            height: calc(100vh - 50px);
-            overflow-y: scroll; /* Permette lo scorrimento */
-            -webkit-overflow-scrolling: touch;
+
+        /* Lista Compositori */
+        #schermata-lista { padding: 20px; margin-top: 20px; }
+        .riga-compositore { 
+            background: white; padding: 15px; margin-bottom: 10px; 
+            border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex; justify-content: space-between; align-items: center;
         }
-        /* L'iframe vero e proprio */
-        iframe {
-            width: 100%;
-            height: 4000px; /* Molto alto per contenere tutto l'articolo */
-            border: none;
-            pointer-events: none; /* DISATTIVA I LINK */
+
+        /* Iframe e Contenitore */
+        .wrap-iframe { 
+            margin-top: 60px; width: 100%; height: calc(100vh - 60px); 
+            overflow-y: auto; -webkit-overflow-scrolling: touch; 
         }
+        iframe { width: 100%; height: 5000px; border: none; pointer-events: none; }
+
+        button { 
+            padding: 8px 12px; cursor: pointer; border-radius: 4px; border: none;
+            background: #3498db; color: white; font-weight: bold;
+        }
+        .btn-indietro { background: #e74c3c; }
     </style>
 </head>
 <body>
 
-    <div class="header">
-        <b>Mozart - Vita</b>
+    <div id="schermata-lista">
+        <h2>Compositori</h2>
+        <div id="lista-corpo"></div>
     </div>
 
-    <div class="container">
-        <iframe src="https://it.m.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"></iframe>
+    <div id="schermata-dettaglio" style="display:none;">
+        <div class="header-fisso" id="testata">
+            <button class="btn-indietro" id="btn-back">Indietro</button>
+            <span id="titolo-corrente" style="font-size: 0.9em; text-align: center; flex-grow: 1;"></span>
+            <button id="btn-azione-destra"></button>
+        </div>
+        <div class="wrap-iframe">
+            <iframe id="frame-wiki" src=""></iframe>
+        </div>
     </div>
 
+    <script>
+        let datiMusica = [];
+
+        // Carica i dati dal file JSON
+        fetch('dati.json')
+            .then(response => response.json())
+            .then(data => {
+                datiMusica = data;
+                mostraLista();
+            });
+
+        function mostraLista() {
+            document.getElementById('schermata-lista').style.display = 'block';
+            document.getElementById('schermata-dettaglio').style.display = 'none';
+            document.getElementById('testata').style.display = 'none';
+            
+            const contenitore = document.getElementById('lista-corpo');
+            contenitore.innerHTML = '';
+
+            datiMusica.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'riga-compositore';
+                div.innerHTML = `
+                    <span>${item.compositore}</span>
+                    <div>
+                        <button onclick="apriVita(${item.id})">Vita</button>
+                        <button onclick="apriListaComposizioni(${item.id})">Composizioni</button>
+                    </div>
+                `;
+                contenitore.appendChild(div);
+            });
+        }
+
+        function apriVita(id) {
+            const comp = datiMusica.find(c => c.id === id);
+            configuraDettaglio(comp.compositore, comp.wiki_vita, "Composizioni", () => apriListaComposizioni(id), "Lista", mostraLista);
+        }
+
+        function apriListaComposizioni(id) {
+            // Per semplicità, qui apriamo la prima composizione o una lista specifica. 
+            // Seguendo la tua logica del punto 3:
+            const comp = datiMusica.find(c => c.id === id);
+            const primaComp = comp.composizioni[0]; 
+            configuraDettaglio(primaComp.titolo, primaComp.wiki_comp, "YouTube", () => window.open(primaComp.youtube, '_blank'), "Indietro", () => apriVita(id));
+        }
+
+        function configuraDettaglio(titolo, url, testoBtnDestra, azioneDestra, testoBtnSinistra, azioneSinistra) {
+            document.getElementById('schermata-lista').style.display = 'none';
+            document.getElementById('schermata-dettaglio').style.display = 'block';
+            document.getElementById('testata').style.display = 'flex';
+            
+            document.getElementById('titolo-corrente').innerText = titolo;
+            document.getElementById('frame-wiki').src = url;
+            
+            const btnSinistra = document.getElementById('btn-back');
+            btnSinistra.innerText = testoBtnSinistra;
+            btnSinistra.onclick = azioneSinistra;
+
+            const btnDestra = document.getElementById('btn-azione-destra');
+            btnDestra.innerText = testoBtnDestra;
+            btnDestra.onclick = azioneDestra;
+            
+            window.scrollTo(0,0);
+        }
+    </script>
 </body>
 </html>

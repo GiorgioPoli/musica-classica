@@ -1,0 +1,49 @@
+[
+  {
+    "compositore": "Wolfgang Amadeus Mozart (1756-1791)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia n. 35 in Re maggiore K 385 'Haffner' (1782)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._35_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=AUnKeRz5n0c"
+      },
+      {
+        "titolo": "Sinfonia n. 41 in Do maggiore K 551 'Jupiter' (1788)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._41_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=yZpFrydm6G4&list=RDyZpFrydm6G4&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Ludwig van Beethoven (1770-1827)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Ludwig_van_Beethoven",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia n. 5 in do minore Op. 67 (1808)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=zWP9fkCuqi8"
+      },
+      {
+        "titolo": "Sinfonia n. 9 in Re minore (1824)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=4IqnVCc-Yqo&list=RD4IqnVCc-Yqo&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Antonín Dvořák (1841-1904)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia n. 9 in Mi minore 'Dal Nuovo Mondo' (1893)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Dvo%C5%99%C3%A1k)",
+        "link_youtube": "https://www.youtube.com/watch?v=uOmaQSqnPfw"
+      }
+    ]
+  }
+]
+
+
+
+
