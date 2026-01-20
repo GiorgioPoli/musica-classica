@@ -5,74 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App Musica Classica</title>
     <style>
-        body { margin: 0; font-family: -apple-system, system-ui, sans-serif; background: #f0f0f0; color: #1a1a1a; overflow-x: hidden; }
-        
-        /* Struttura Titolo e Ricerca */
-        .search-container {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 10px 15px 5px 15px;
-            gap: 10px;
-        }
-        .search-container h2 { margin: 0; font-size: 22px; white-space: nowrap; }
-        .search-input {
-            flex: 1;
-            padding: 8px 12px;
-            border-radius: 20px;
-            border: 1px solid #ccc;
-            font-size: 14px;
-            outline: none;
-        }
-
-        /* Barre Superiori (fisse) */
+        body { margin: 0; font-family: -apple-system, sans-serif; background: #f0f0f0; }
         .header-fisso { 
             position: fixed; top: 0; width: 100%; height: 60px; 
-            background: #ffffff; color: #000; display: flex; 
-            align-items: center; justify-content: space-between; z-index: 1000;
-            padding: 0 10px; box-sizing: border-box; border-bottom: 1px solid #ddd;
+            background: white; display: flex; align-items: center; 
+            justify-content: space-between; z-index: 1000; border-bottom: 1px solid #ddd;
+            padding: 0 10px; box-sizing: border-box;
         }
-
-        /* Liste */
-        #schermata-lista, #schermata-composizioni { padding: 10px 15px; }
-        .riga-container { 
-            display: flex; gap: 10px; margin-bottom: 12px; align-items: stretch;
-        }
-
-        /* Pulsanti */
-        button { 
-            background: white; color: black; border: 1px solid #ccc; 
-            padding: 12px; border-radius: 8px; font-size: 15px;
-            cursor: pointer; display: flex; align-items: center; justify-content: center;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-        }
-        button:active { background: #e0e0e0; }
-
-        .btn-nome-principale { flex: 3; text-align: left; justify-content: flex-start; font-weight: 500; }
-        .btn-opere-piccolo { flex: 1; font-size: 12px; text-transform: uppercase; font-weight: bold; min-width: 70px; }
-        .btn-header { padding: 6px 10px; font-size: 13px; font-weight: bold; }
-        .btn-indietro { background: #f8d7da; border-color: #f5c6cb; }
-
-        /* Iframe e Contenitore con Scrolling */
-        .wrap-iframe { 
-            margin-top: 60px; 
-            width: 100%; 
-            height: calc(100vh - 60px); 
-            overflow-y: auto; 
-            overflow-x: hidden;
-            -webkit-overflow-scrolling: touch; 
-        }
+        .search-container { display: flex; align-items: center; padding: 10px 15px; gap: 10px; background: #f0f0f0; }
+        .search-input { flex: 1; padding: 8px; border-radius: 20px; border: 1px solid #ccc; }
         
-        iframe { 
-            width: 100%; 
-            height: 10000px; /* Altezza molto grande per permettere lo scrolling interno del wrap-iframe */
-            border: none; 
-            pointer-events: none; 
-            background: white; 
-        }
+        .wrap-iframe { margin-top: 60px; width: 100%; height: calc(100vh - 60px); overflow-y: auto; }
+        iframe { width: 100%; height: 10000px; border: none; background: white; }
 
+        button { background: white; border: 1px solid #ccc; padding: 10px; border-radius: 8px; cursor: pointer; }
+        .btn-nome { flex: 3; text-align: left; margin-bottom: 10px; margin-right: 5px;}
+        .btn-opere { flex: 1; margin-bottom: 10px; font-weight: bold; font-size: 12px;}
+        .riga { display: flex; padding: 0 15px; }
         .nascosto { display: none !important; }
-        #titolo-corrente { font-size: 13px; font-weight: bold; text-align: center; flex: 1; padding: 0 5px; color: #555; }
     </style>
 </head>
 <body>
@@ -82,120 +32,96 @@
             <h2>Compositori</h2>
             <input type="text" id="input-ricerca" class="search-input" placeholder="Cerca..." onkeyup="filtraCompositori()">
         </div>
-        <div id="lista-corpo" style="margin-top: 10px;"></div>
+        <div id="lista-corpo"></div>
     </div>
 
     <div id="schermata-composizioni" class="nascosto">
         <div class="header-fisso">
-            <button class="btn-header btn-indietro" onclick="mostraLista()">Lista</button>
-            <button class="btn-header" id="btn-comp-vita" style="flex:1; margin: 0 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"></button>
-            <div style="width:50px"></div>
+            <button onclick="mostraLista()">Lista</button>
+            <button id="btn-comp-vita" style="flex:1; margin: 0 10px;"></button>
+            <div style="width:40px"></div>
         </div>
-        <div id="lista-brani-corpo" style="margin-top:70px"></div>
+        <div id="lista-brani-corpo" style="margin-top:70px; padding: 15px;"></div>
     </div>
 
     <div id="schermata-dettaglio" class="nascosto">
-        <div class="header-fisso" id="testata">
-            <button class="btn-header btn-indietro" id="btn-back"></button>
-            <span id="titolo-corrente"></span>
-            <button class="btn-header" id="btn-azione-destra"></button>
+        <div class="header-fisso">
+            <button id="btn-back"></button>
+            <span id="titolo-corrente" style="font-size:12px; flex:1; text-align:center;"></span>
+            <button id="btn-azione-destra"></button>
         </div>
         <div class="wrap-iframe" id="scroll-wrapper">
-            <iframe id="frame-wiki" src=""></iframe>
+            <iframe id="frame-wiki"></iframe>
         </div>
     </div>
 
     <script>
         let datiMusica = [];
 
-        fetch('dati.json')
-            .then(res => res.json())
-            .then(data => {
-                datiMusica = data;
-                mostraLista();
-            });
-
-        function mostraLista() {
-            gestisciVisibilita('schermata-lista');
-            disegnaLista(datiMusica);
-        }
-
-        function filtraCompositori() {
-            const testo = document.getElementById('input-ricerca').value.toLowerCase();
-            const filtrati = datiMusica.filter(c => c.compositore.toLowerCase().includes(testo));
-            disegnaLista(filtrati);
-        }
+        fetch('dati.json').then(res => res.json()).then(data => { datiMusica = data; disegnaLista(data); });
 
         function disegnaLista(arrayDati) {
             const contenitore = document.getElementById('lista-corpo');
             contenitore.innerHTML = '';
             arrayDati.forEach((item) => {
-                const originalIndex = datiMusica.indexOf(item);
+                const idx = datiMusica.indexOf(item);
                 const div = document.createElement('div');
-                div.className = 'riga-container';
+                div.className = 'riga';
                 div.innerHTML = `
-                    <button class="btn-nome-principale" onclick="apriVita(${originalIndex})">${item.compositore}</button>
-                    <button class="btn-opere-piccolo" onclick="mostraBrani(${originalIndex})">Opere</button>
+                    <button class="btn-nome" onclick="apriVita(${idx})">${item.compositore}</button>
+                    <button class="btn-opere" onclick="mostraBrani(${idx})">OPERE</button>
                 `;
                 contenitore.appendChild(div);
             });
         }
 
-        function mostraBrani(indexComp) {
+        function filtraCompositori() {
+            const t = document.getElementById('input-ricerca').value.toLowerCase();
+            disegnaLista(datiMusica.filter(c => c.compositore.toLowerCase().includes(t)));
+        }
+
+        function mostraBrani(idx) {
             gestisciVisibilita('schermata-composizioni');
-            const comp = datiMusica[indexComp];
-            const btnVita = document.getElementById('btn-comp-vita');
-            btnVita.innerText = comp.compositore;
-            btnVita.onclick = () => apriVita(indexComp);
-            const contenitore = document.getElementById('lista-brani-corpo');
-            contenitore.innerHTML = '';
-            comp.composizioni.forEach((brano, indexBrano) => {
-                const div = document.createElement('div');
-                div.className = 'riga-container';
-                div.innerHTML = `<button class="btn-nome-principale" style="flex:1" onclick="apriBrano(${indexComp}, ${indexBrano})">${brano.titolo}</button>`;
-                contenitore.appendChild(div);
+            const comp = datiMusica[idx];
+            document.getElementById('btn-comp-vita').innerText = comp.compositore;
+            document.getElementById('btn-comp-vita').onclick = () => apriVita(idx);
+            const cont = document.getElementById('lista-brani-corpo');
+            cont.innerHTML = '';
+            comp.composizioni.forEach((b, bIdx) => {
+                cont.innerHTML += `<button style="width:100%; text-align:left; margin-bottom:10px;" onclick="apriBrano(${idx}, ${bIdx})">${b.titolo}</button>`;
             });
         }
 
-        function apriVita(index) {
-            const comp = datiMusica[index];
-            configuraIframe(comp.compositore, comp.link_wiki, "OPERE", () => mostraBrani(index), "LISTA", mostraLista);
+        function apriVita(idx) {
+            const c = datiMusica[idx];
+            configuraIframe(c.compositore, c.link_wiki, "OPERE", () => mostraBrani(idx), "LISTA", mostraLista);
         }
 
-        function apriBrano(indexComp, indexBrano) {
-            const brano = datiMusica[indexComp].composizioni[indexBrano];
-            configuraIframe(brano.titolo, brano.link_wiki_comp, "YOUTUBE", () => window.open(brano.link_youtube, '_blank'), "INDIETRO", () => mostraBrani(indexComp));
+        function apriBrano(idx, bIdx) {
+            const b = datiMusica[idx].composizioni[bIdx];
+            configuraIframe(b.titolo, b.link_wiki_comp, "YOUTUBE", () => window.open(b.link_youtube, '_blank'), "INDIETRO", () => mostraBrani(idx));
         }
 
         function configuraIframe(titolo, url, txtR, azioneR, txtL, azioneL) {
             gestisciVisibilita('schermata-dettaglio');
             document.getElementById('titolo-corrente').innerText = titolo;
-
-            // TRUCCO DEFINITIVO:
-            // 1. Rimuoviamo la .m. per forzare la versione desktop (sezioni aperte)
-            let urlDesktop = url.replace('.m.wikipedia.org', '.wikipedia.org');
             
-            // 2. Aggiungiamo useskin=vector per avere la grafica desktop classica
-            if (urlDesktop.includes('wikipedia.org')) {
-                urlDesktop += (urlDesktop.includes('?') ? '&' : '?') + "useskin=vector";
-            }
-
-            document.getElementById('frame-wiki').src = urlDesktop;
+            // TRUCCO NOSTALGIA: Carica Wikipedia senza menu laterali e con sezioni aperte
+            let finalUrl = url.replace('.m.wikipedia.org', '.wikipedia.org');
+            finalUrl += (finalUrl.includes('?') ? '&' : '?') + "useskin=nostalgia";
             
+            document.getElementById('frame-wiki').src = finalUrl;
             document.getElementById('btn-back').innerText = txtL;
             document.getElementById('btn-back').onclick = azioneL;
             document.getElementById('btn-azione-destra').innerText = txtR;
             document.getElementById('btn-azione-destra').onclick = azioneR;
-            
-            // Reset dello scroll del contenitore
             document.getElementById('scroll-wrapper').scrollTop = 0;
         }
 
-        function gestisciVisibilita(idMostrare) {
-            ['schermata-lista', 'schermata-composizioni', 'schermata-dettaglio'].forEach(id => {
-                document.getElementById(id).classList.add('nascosto');
+        function gestisciVisibilita(id) {
+            ['schermata-lista', 'schermata-composizioni', 'schermata-dettaglio'].forEach(s => {
+                document.getElementById(s).classList.toggle('nascosto', s !== id);
             });
-            document.getElementById(idMostrare).classList.remove('nascosto');
         }
     </script>
 </body>
