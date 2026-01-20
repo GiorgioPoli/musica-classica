@@ -1,491 +1,491 @@
 [
   {
     "compositore": "Antonio Vivaldi (1678-1741)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Antonio_Vivaldi",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Antonio_Vivaldi",
     "composizioni": [
       {
         "titolo": "Le quattro stagioni (1725)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Le_quattro_stagioni",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_quattro_stagioni",
         "link_youtube": "https://www.youtube.com/watch?v=aryDMAP6oug&list=RDaryDMAP6oug&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Johann Sebastian Bach (1685-1750)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Johann_Sebastian_Bach",
     "composizioni": [
       {
         "titolo": "Toccata e fuga in Re minore (BWV 565 – 1703)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Toccata_e_fuga_in_Re_minore",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Toccata_e_fuga_in_Re_minore",
         "link_youtube": "https://www.youtube.com/watch?v=xhBFi_64mmU&list=RDxhBFi_64mmU&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Franz Joseph Haydn (1732-1809)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Franz_Joseph_Haydn",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Franz_Joseph_Haydn",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 94 in sol maggiore (1791)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._94_(Haydn)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._94_(Haydn)",
         "link_youtube": "https://www.youtube.com/watch?v=Pb4nRgwQ5Jk&list=RDPb4nRgwQ5Jk&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Wolfgang Amadeus Mozart (1756-1791)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
     "composizioni": [
       {
         "titolo": "Le nozze di Figaro (1786)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Le_nozze_di_Figaro",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_nozze_di_Figaro",
         "link_youtube": "https://www.youtube.com/watch?v=vf4otVv1SL8&list=RDvf4otVv1SL8&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 35 in Re maggiore K 385 ‘Haffner’ (1782)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._35_(Mozart)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._35_(Mozart)",
         "link_youtube": "https://www.youtube.com/watch?v=AUnKeRz5n0c&list=RDAUnKeRz5n0c&start_radio=1"
       },
       {
         "titolo": "Don Giovanni (1787)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Don_Giovanni_(opera)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Don_Giovanni_(opera)",
         "link_youtube": "https://www.youtube.com/watch?v=E1d2h7tMDmI&list=RDE1d2h7tMDmI&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 41 in Do maggiore K 551 ‘Jupiter’ (1788)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._41_(Mozart)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._41_(Mozart)",
         "link_youtube": "https://www.youtube.com/watch?v=yZpFrydm6G4&list=RDyZpFrydm6G4&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 40 in sol minore K 550 (1788)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._40_(Mozart)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._40_(Mozart)",
         "link_youtube": "https://www.youtube.com/watch?v=p8bZ7vm4_6M&list=RDp8bZ7vm4_6M&start_radio=1"
       },
       {
         "titolo": "Il flauto magico (1791)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Il_flauto_magico",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_flauto_magico",
         "link_youtube": "https://www.youtube.com/watch?v=cE64eIZi9Lw"
       },
       {
         "titolo": "Requiem (1791)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Requiem_(Mozart)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Requiem_(Mozart)",
         "link_youtube": "https://www.youtube.com/watch?v=1Jw6wpNLM9E&list=RD1Jw6wpNLM9E&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Ludwig van Beethoven (1770-1827)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Ludwig_van_Beethoven",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Ludwig_van_Beethoven",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 5 in do minore Op. 67 (1808)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._5_(Beethoven)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Beethoven)",
         "link_youtube": "https://www.youtube.com/watch?v=zWP9fkCuqi8"
       },
       {
         "titolo": "Sinfonia n. 6 in fa maggiore Op. 68 ‘Pastorale’",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._6_(Beethoven)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._6_(Beethoven)",
         "link_youtube": "https://www.youtube.com/watch?v=40vp0Veqglg&list=RD40vp0Veqglg&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 9 in Re minore (1824)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._9_(Beethoven)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Beethoven)",
         "link_youtube": "https://www.youtube.com/watch?v=4IqnVCc-Yqo&list=RD4IqnVCc-Yqo&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Gioachino Rossini (1792-1868)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Gioachino_Rossini",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Gioachino_Rossini",
     "composizioni": [
       {
         "titolo": "Il barbiere di Siviglia (1816)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Il_barbiere_di_Siviglia_(Rossini)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_barbiere_di_Siviglia_(Rossini)",
         "link_youtube": "https://www.youtube.com/watch?v=bH01MQ2aqY4"
       }
     ]
   },
   {
     "compositore": "Franz Schubert (1797-1828)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Franz_Schubert",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Franz_Schubert",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 8 in Si minore D 759 ‘Incompiuta’ (1822)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._8_(Schubert)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Schubert)",
         "link_youtube": "https://www.youtube.com/watch?v=cdhBumzco8g&list=RDcdhBumzco8g&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Gaetano Donizetti (1797-1848)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Gaetano_Donizetti",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Gaetano_Donizetti",
     "composizioni": [
       {
         "titolo": "L'elisir d'amore (1832)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/L'elisir_d'amore",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L'elisir_d'amore",
         "link_youtube": "https://www.youtube.com/watch?v=5bSpJ0uXSy4"
       }
     ]
   },
   {
     "compositore": "Vincenzo Bellini (1801-1835)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Vincenzo_Bellini",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Vincenzo_Bellini",
     "composizioni": [
       {
         "titolo": "Norma (1831)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Norma_(opera)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Norma_(opera)",
         "link_youtube": "https://www.youtube.com/watch?v=kO3xQWhrePE&list=RDkO3xQWhrePE&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Hector Berlioz 1803-1869)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Hector_Berlioz",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Hector_Berlioz",
     "composizioni": [
       {
         "titolo": "Sinfonia fantastica (1830)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_fantastica",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_fantastica",
         "link_youtube": "https://www.youtube.com/watch?v=sdYRYbjCcJg&list=RDsdYRYbjCcJg&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Felix Mendelssohn Bartholdy (1809-1847)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Felix_Mendelssohn",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Felix_Mendelssohn",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 4 in la maggiore, op. 90 ‘Italiana’ (1830)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._4_(Mendelssohn)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Mendelssohn)",
         "link_youtube": "https://www.youtube.com/watch?v=ovPdGKXxmO4&list=RDovPdGKXxmO4&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Robert  Schumann (1810-1856)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Robert_Schumann",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Robert_Schumann",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 3 in Mib Maggiore Op. 97 ‘Renana’ (1850)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._3_(Schumann)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Schumann)",
         "link_youtube": "https://www.youtube.com/watch?v=i5Y2wBGbiIA&list=RDi5Y2wBGbiIA&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Frédéric Chopin (1810-1849)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Fryderyk_Chopin",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Fryderyk_Chopin",
     "composizioni": [
       {
         "titolo": "Notturni (1830-35)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Notturni_(Chopin)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Notturni_(Chopin)",
         "link_youtube": "https://www.youtube.com/watch?v=3AIxf7CFToQ&list=RD3AIxf7CFToQ&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Franz Liszt (1811-1886)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Franz_Liszt",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Franz_Liszt",
     "composizioni": [
       {
         "titolo": "Rapsodie ungheresi (1846-53)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Rapsodie_ungheresi",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rapsodie_ungheresi",
         "link_youtube": "https://www.youtube.com/watch?v=4YePVuJCtFg&list=RD4YePVuJCtFg&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Giuseppe Verdi (1813-1901)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Giuseppe_Verdi",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Giuseppe_Verdi",
     "composizioni": [
       {
         "titolo": "Requiem (1874)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Requiem_(Verdi)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Requiem_(Verdi)",
         "link_youtube": "https://www.youtube.com/watch?v=eaebqmzm0RA&list=RDeaebqmzm0RA&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Richard Wagner (1813-1883)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Richard_Wagner",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Richard_Wagner",
     "composizioni": [
       {
         "titolo": "L'Olandese Volante (1841)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/L%27Olandese_Volante_(opera)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L%27Olandese_Volante_(opera)",
         "link_youtube": "https://www.youtube.com/watch?v=ctl5CLkelMg&list=RDctl5CLkelMg&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Anton Bruckner (1824-1896)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Anton_Bruckner",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Anton_Bruckner",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 4 in mi bemolle maggiore ‘Romantica’ (1881)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._4_(Bruckner)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Bruckner)",
         "link_youtube": "https://www.youtube.com/watch?v=JCxdHIEHELE&list=RDJCxdHIEHELE&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Bedřich Smetana (1824-1884)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Bed%C5%99ich_Smetana",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Bed%C5%99ich_Smetana",
     "composizioni": [
       {
         "titolo": "Má vlast (1874-1879)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/M%C3%A1_vlast",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/M%C3%A1_vlast",
         "link_youtube": "https://www.youtube.com/watch?v=6rENhwU8xJ8"
       }
     ]
   },
   {
     "compositore": "Johannes Brahms (1833-1897)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Johannes_Brahms",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Johannes_Brahms",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 4 in mi minore Op. 98 (1885)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._4_(Brahms)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Brahms)",
         "link_youtube": "https://www.youtube.com/watch?v=_M4ub-Nia2Q&list=RD_M4ub-Nia2Q&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Camille Saint-Saëns (1835-1921)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
     "composizioni": [
       {
         "titolo": "Il carnevale degli animali (1886)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Il_carnevale_degli_animali",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_carnevale_degli_animali",
         "link_youtube": "https://www.youtube.com/watch?v=7SjagpXeNhM&list=RD7SjagpXeNhM&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Georges Bizet (1838-1875)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Georges_Bizet",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Georges_Bizet",
     "composizioni": [
       {
         "titolo": "Carmen (1874)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Carmen_(opera)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carmen_(opera)",
         "link_youtube": "https://www.youtube.com/watch?v=zTDMvyj4TFg&t=41s"
       }
     ]
   },
   {
     "compositore": "Modest Petrovič Musorgskij (1839-1881)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Modest_Petrovi%C4%8D_Musorgskij",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Modest_Petrovi%C4%8D_Musorgskij",
     "composizioni": [
       {
         "titolo": "Una notte sul Monte Calvo (1867)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Una_notte_sul_Monte_Calvo",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Una_notte_sul_Monte_Calvo",
         "link_youtube": "https://www.youtube.com/watch?v=oxx3y6LPUPc&list=RDoxx3y6LPUPc&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Pëtr Il'ič Čajkovskij (1840-1893)",
-    "link_wiki": "https://it.wikipedia.org/wiki/P%C3%ABtr_Il'i%C4%8D_%C4%8Cajkovskij",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/P%C3%ABtr_Il'i%C4%8D_%C4%8Cajkovskij",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 4 in fa minore, op. 36 (1878)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._4_(%C4%8Cajkovskij)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(%C4%8Cajkovskij)",
         "link_youtube": "https://www.youtube.com/watch?v=EdxkixfK1Dg&list=RDEdxkixfK1Dg&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Antonín Dvořák (1841-1904)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 9 in Mi minore ‘Dal Nuovo Mondo’ (1893)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._9_(Dvo%C5%99%C3%A1k)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Dvo%C5%99%C3%A1k)",
         "link_youtube": "https://www.youtube.com/watch?v=uOmaQSqnPfw&list=RDuOmaQSqnPfw&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Edvard Hagerup Grieg (1843-1907)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Edvard_Grieg",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Edvard_Grieg",
     "composizioni": [
       {
         "titolo": "Peer Gynt op. 23 (1875)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Peer_Gynt_(Grieg)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Peer_Gynt_(Grieg)",
         "link_youtube": "https://www.youtube.com/watch?v=7kpqALC8IbI&list=RD7kpqALC8IbI&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Nikolaj Andreevič Rimskij-Korsakov (1844-1908)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Nikolaj_Andreevi%C4%8D_Rimskij-Korsakov",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Nikolaj_Andreevi%C4%8D_Rimskij-Korsakov",
     "composizioni": [
       {
         "titolo": "Shahrazād, Op. 35 (1888)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Shahraz%C4%81d_(Rimskij-Korsakov)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Shahraz%C4%81d_(Rimskij-Korsakov)",
         "link_youtube": "https://www.youtube.com/watch?v=6exoB7IW8qw&list=RD6exoB7IW8qw&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Gustav Mahler (1860-1911)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Gustav_Mahler",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Gustav_Mahler",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 8 in Mi bemolle maggiore ‘Sinfonia dei Mille’ (1907)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._8_(Mahler)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Mahler)",
         "link_youtube": "https://www.youtube.com/watch?v=kYVMzfWnXMk&list=RDkYVMzfWnXMk&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Claude Debussy (1862-1918)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Claude_Debussy",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Claude_Debussy",
     "composizioni": [
       {
         "titolo": "Prélude à l'après-midi d'un faune (1894)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune",
         "link_youtube": "https://www.youtube.com/watch?v=8UAYCubihlc&list=RD8UAYCubihlc&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Richard Georg Strauss (1864-1949)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Richard_Strauss",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Richard_Strauss",
     "composizioni": [
       {
         "titolo": "Così parlò Zarathustra Op. 30 (1896)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Cos%C3%AC_parl%C3%B2_Zarathustra_(Strauss)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Cos%C3%AC_parl%C3%B2_Zarathustra_(Strauss)",
         "link_youtube": "https://www.youtube.com/watch?v=GfwAPg4rQQE&list=RDGfwAPg4rQQE&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Jean Sibelius (1865-1957)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Jean_Sibelius",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Jean_Sibelius",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 5 in Mi bemolle maggiore Op. 82 (1915)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._5_(Sibelius)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Sibelius)",
         "link_youtube": "https://www.youtube.com/watch?v=RRS6dIgn_QI"
       }
     ]
   },
   {
     "compositore": "Paul Dukas (1865-1935)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Paul_Dukas",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Paul_Dukas",
     "composizioni": [
       {
         "titolo": "L'apprendista stregone (1897)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/L%27apprendista_stregone_(poema_sinfonico)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L%27apprendista_stregone_(poema_sinfonico)",
         "link_youtube": "https://www.youtube.com/watch?v=O_bdguZEI8Q&list=RDO_bdguZEI8Q&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Sergej Vasil'evič Rachmaninov (1873-1943)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Sergej_Vasil'evi%C4%8D_Rachmaninov",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Sergej_Vasil'evi%C4%8D_Rachmaninov",
     "composizioni": [
       {
         "titolo": "Concerto per pianoforte e orchestra n. 2 in do minore, Op. 18 (1901)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Rachmaninov)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Rachmaninov)",
         "link_youtube": "https://www.youtube.com/watch?v=UacBYgyu5uQ&list=RDUacBYgyu5uQ&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Arnold Franz Walther Schönberg (1874-1951)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg",
     "composizioni": [
       {
         "titolo": "Pierrot Lunaire Op. 21 (1912)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Pierrot_Lunaire_(Sch%C3%B6nberg)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pierrot_Lunaire_(Sch%C3%B6nberg)",
         "link_youtube": "https://www.youtube.com/watch?v=bd2cBUJmDr8&list=RDbd2cBUJmDr8&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Maurice Ravel (1875-1937)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Maurice_Ravel",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Maurice_Ravel",
     "composizioni": [
       {
         "titolo": "Bolero (1928)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Bol%C3%A9ro_(Ravel)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Bol%C3%A9ro_(Ravel)",
         "link_youtube": "https://www.youtube.com/watch?v=Dh9bUD-hC0A&list=RDDh9bUD-hC0A&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Ottorino Respighi  1879-1936)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Ottorino_Respighi",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Ottorino_Respighi",
     "composizioni": [
       {
         "titolo": "I pini di Roma (1924)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/I_pini_di_Roma",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/I_pini_di_Roma",
         "link_youtube": "https://www.youtube.com/watch?v=XgE7PUXTrlo&list=RDXgE7PUXTrlo&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Béla Bartók (1881-1945)",
-    "link_wiki": "https://it.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k",
     "composizioni": [
       {
         "titolo": "Concerto per Orchestra (1943)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Concerto_per_orchestra_(Bart%C3%B3k)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_orchestra_(Bart%C3%B3k)",
         "link_youtube": "https://www.youtube.com/watch?v=qnIY6gm0RKw&list=RDqnIY6gm0RKw&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Igor' Fëdorovič Stravinskij (1882-1971)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Igor%27_F%C3%ABdorovi%C4%8D_Stravinskij",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Igor%27_F%C3%ABdorovi%C4%8D_Stravinskij",
     "composizioni": [
       {
         "titolo": "La Sagra della Primavera (1913)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/La_sagra_della_primavera",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_sagra_della_primavera",
         "link_youtube": "https://www.youtube.com/watch?v=aAQSQYdMeRQ&list=RDaAQSQYdMeRQ&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Sergej Sergeevič Prokof'ev (1891-1953)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Sergej_Sergeevi%C4%8D_Prokof%27ev",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Sergej_Sergeevi%C4%8D_Prokof%27ev",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 1 in Re maggiore Op.25 ‘Sinfoni Classica’ (1917)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._1_(Prokof%27ev)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Prokof%27ev)",
         "link_youtube": "https://www.youtube.com/watch?v=uOerZ-ewUcA&list=RDuOerZ-ewUcA&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Carl Orff (1895-1982)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Carl_Orff",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Carl_Orff",
     "composizioni": [
       {
         "titolo": "Carmina Burana (1936)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Carmina_Burana_(Orff)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carmina_Burana_(Orff)",
         "link_youtube": "https://www.youtube.com/watch?v=Yb6jULNu5ik&list=RDYb6jULNu5ik&start_radio=1"
       }
     ]
   },
   {
     "compositore": "George Gershwin (1898-1937)",
-    "link_wiki": "https://it.wikipedia.org/wiki/George_Gershwin",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/George_Gershwin",
     "composizioni": [
       {
         "titolo": "Rapsodia in blu (1924)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Rapsodia_in_blu",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rapsodia_in_blu",
         "link_youtube": "https://www.youtube.com/watch?v=0U-IXWaapx4&list=RD0U-IXWaapx4&start_radio=1"
       }
     ]
   },
   {
     "compositore": "Dmítrij Dmítrievič Šostakóvič (1906-1975)",
-    "link_wiki": "https://it.wikipedia.org/wiki/Dmitrij_Dmitrievi%C4%8D_%C5%A0ostakovi%C4%8D",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Dmitrij_Dmitrievi%C4%8D_%C5%A0ostakovi%C4%8D",
     "composizioni": [
       {
         "titolo": "Sinfonia n. 13 in si bemolle minore Op. 113 ‘Babij Jar’ (1962)",
-        "link_wiki_comp": "https://it.wikipedia.org/wiki/Sinfonia_n._13_(%C5%A0ostakovi%C4%8D)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._13_(%C5%A0ostakovi%C4%8D)",
         "link_youtube": "https://www.youtube.com/watch?v=_VHrV0f8WyE"
       }
     ]
