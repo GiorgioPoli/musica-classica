@@ -162,12 +162,30 @@
         function configuraIframe(titolo, url, txtR, azioneR, txtL, azioneL) {
             gestisciVisibilita('schermata-dettaglio');
             document.getElementById('titolo-corrente').innerText = titolo;
-            document.getElementById('frame-wiki').src = url;
-            document.getElementById('btn-back').innerText = txtL;
-            document.getElementById('btn-back').onclick = azioneL;
-            document.getElementById('btn-azione-destra').innerText = txtR;
-            document.getElementById('btn-azione-destra').onclick = azioneR;
-            window.scrollTo(0,0);
+        
+            // TRUCCO: Trasforma l'URL mobile in desktop per avere le sezioni espanse
+            // Se l'URL contiene ".m.wikipedia.org", lo trasformiamo in ".wikipedia.org"
+            // let urlDesktop = url.replace('.m.wikipedia.org', '.wikipedia.org');
+			// già fatto nel file excel/csv/json
+            
+            // Se vuoi essere ancora più sicuro che tutto sia espanso, 
+            // puoi aggiungere un parametro di stile di Wikipedia
+            if (urlDesktop.includes('wikipedia.org')) {
+                urlDesktop += "?useskin=vector";
+            }
+        
+            document.getElementById('frame-wiki').src = urlDesktop;
+            
+            const btnL = document.getElementById('btn-back');
+            btnL.innerText = txtL;
+            btnL.onclick = azioneL;
+        
+            const btnR = document.getElementById('btn-azione-destra');
+            btnR.innerText = txtR;
+            btnR.onclick = azioneR;
+            
+            // Riporta lo scroll in alto quando si cambia pagina
+            document.querySelector('.wrap-iframe').scrollTop = 0;
         }
 
         function gestisciVisibilita(idMostrare) {
