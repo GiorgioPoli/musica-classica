@@ -1,5 +1,60 @@
 [
   {
+    "compositore": "Canto gregoriano",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Canto_gregoriano",
+    "composizioni": [
+      {
+        "titolo": "Il sito internet del Canto gregoriano",
+        "link_wiki_comp": "https://www.gregorianum.org/wiki/Pagina_principale",
+        "link_youtube": "https://www.youtube.com/watch?v=GCuDBo4F-Ac&list=RDGCuDBo4F-Ac&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Guillaume de Machaut (1300-1377)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Guillaume_de_Machaut",
+    "composizioni": [
+      {
+        "titolo": "Missa de Notre-Dame (1365)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messe_de_Notre-Dame",
+        "link_youtube": "https://www.youtube.com/watch?v=11A4wqv8_wo&list=RD11A4wqv8_wo&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Giovanni Pierluigi da Palestrina (1525-1594)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina",
+    "composizioni": [
+      {
+        "titolo": "Missa papae Marcelli (1562)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Missa_papae_Marcelli",
+        "link_youtube": "https://www.youtube.com/watch?v=zVXFpiL9n54&list=RDzVXFpiL9n54&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Marc-Antoine Charpentier (1643-1704)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Marc-Antoine_Charpentier",
+    "composizioni": [
+      {
+        "titolo": "Te Deum H. 146 in re maggiore (1692)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Te_Deum_(Charpentier)",
+        "link_youtube": "https://www.youtube.com/watch?v=oMiNfmdbX7I&list=RDoMiNfmdbX7I&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Arcangelo Corelli (1653-1713)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Arcangelo_Corelli",
+    "composizioni": [
+      {
+        "titolo": "12 concerti grossi, op.. 6 (1709)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/12_concerti_grossi,_op._6",
+        "link_youtube": "https://www.youtube.com/watch?v=dROLGWhCcWY&list=RDdROLGWhCcWY&start_radio=1&t=23s"
+      }
+    ]
+  },
+  {
     "compositore": "Antonio Vivaldi (1678-1741)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Antonio_Vivaldi",
     "composizioni": [
@@ -11,13 +66,95 @@
     ]
   },
   {
+    "compositore": "Georg Friedrich Händel (1685-1759)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Georg_Friedrich_H%C3%A4ndel",
+    "composizioni": [
+      {
+        "titolo": "La Musica sull'acqua (Wassermusik, 1717)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Musica_sull%27acqua",
+        "link_youtube": "https://www.youtube.com/watch?v=EVAB2z1RPu4&list=RDEVAB2z1RPu4&start_radio=1&t=44s"
+      },
+      {
+        "titolo": "Messiah (1741)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messiah",
+        "link_youtube": "https://www.youtube.com/watch?v=bR0cEOTpYSk&list=RDbR0cEOTpYSk&start_radio=1&t=8682s"
+      },
+      {
+        "titolo": "Musica per i reali fuochi d'artificio (1749)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Musica_per_i_reali_fuochi_d%27artificio",
+        "link_youtube": "https://www.youtube.com/watch?v=EkttBYzD-jY&list=RDEkttBYzD-jY&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Johann Sebastian Bach (1685-1750)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Johann_Sebastian_Bach",
     "composizioni": [
       {
-        "titolo": "Toccata e fuga in Re minore (BWV 565 – 1703)",
+        "titolo": "Toccata e fuga in Re minore BWV 565 (1703)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Toccata_e_fuga_in_Re_minore",
-        "link_youtube": "https://www.youtube.com/watch?v=xhBFi_64mmU&list=RDxhBFi_64mmU&start_radio=1"
+        "link_youtube": "https://www.youtube.com/watch?v=zISDa4kvrC0&list=RDzISDa4kvrC0&start_radio=1"
+      },
+      {
+        "titolo": "Concerto brandeburghese n. 1 BWV 1046 (1721)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_brandeburghese_n._1",
+        "link_youtube": "https://www.youtube.com/watch?v=NWEHKTyaVc0&list=RDNWEHKTyaVc0&start_radio=1"
+      },
+      {
+        "titolo": "Concerto brandeburghese n. 2 BWV 1047 (1718)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_brandeburghese_n._2",
+        "link_youtube": "https://www.youtube.com/watch?v=VC24gV1o7XQ&list=RDVC24gV1o7XQ&start_radio=1"
+      },
+      {
+        "titolo": "Concerto brandeburghese n. 3 BWV 1048 (1718)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_brandeburghese_n._3",
+        "link_youtube": "https://www.youtube.com/watch?v=Czsd13Mmcg0&list=RDCzsd13Mmcg0&start_radio=1"
+      },
+      {
+        "titolo": "Concerto brandeburghese n. 4 BWV 1049 (1720)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_brandeburghese_n._4",
+        "link_youtube": "https://www.youtube.com/watch?v=tp_WeHUKoXM&list=RDtp_WeHUKoXM&start_radio=1"
+      },
+      {
+        "titolo": "Concerto brandeburghese n. 5 BWV 1050 (1721)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_brandeburghese_n._5",
+        "link_youtube": "https://www.youtube.com/watch?v=gIgqeA76cdU&list=RDgIgqeA76cdU&start_radio=1"
+      },
+      {
+        "titolo": "Concerto brandeburghese n. 5 BWV 1051 (1718)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_brandeburghese_n._6",
+        "link_youtube": "https://www.youtube.com/watch?v=_tr_uYEQkrs&list=RD_tr_uYEQkrs&start_radio=1"
+      },
+      {
+        "titolo": "Suite n. 3 in re maggiore BWV 1068 (1730)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Quattro_suite_per_orchestra#Suite_n%C2%B0_3_in_re_maggiore_BWV_1068",
+        "link_youtube": "https://www.youtube.com/watch?v=QmmKnCJzFCw&list=RDQmmKnCJzFCw&start_radio=1"
+      },
+      {
+        "titolo": "Sonate in trio per organo (1727-1732)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sonate_in_trio_per_organo",
+        "link_youtube": "https://www.youtube.com/watch?v=gTAg1A_IhF0&list=RDgTAg1A_IhF0&start_radio=1"
+      },
+      {
+        "titolo": "Il clavicembalo ben temperato (1722-1744)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_clavicembalo_ben_temperato",
+        "link_youtube": "https://www.youtube.com/watch?v=n8iIfmvmYRg&list=PLr0MsaDpKsY8Dfzb9lkCT9Jc5nBNLIsTG&index=2"
+      },
+      {
+        "titolo": "Messa in si minore BWV 232 (1724-1749)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messa_in_Si_minore",
+        "link_youtube": "https://www.youtube.com/watch?v=vCg43vDsyxs&list=RDvCg43vDsyxs&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Giovanni Battista Pergolesi (1710-1736)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Giovanni_Battista_Pergolesi",
+    "composizioni": [
+      {
+        "titolo": "Stabat Mater (1735)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Stabat_Mater_(Pergolesi)",
+        "link_youtube": "https://www.youtube.com/watch?v=A9VWK75aAgw&list=RDA9VWK75aAgw&start_radio=1"
       }
     ]
   },
@@ -26,9 +163,44 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Franz_Joseph_Haydn",
     "composizioni": [
       {
-        "titolo": "Sinfonia n. 94 in sol maggiore (1791)",
+        "titolo": "Sinfonia n. 39 in Sol minore (1768)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._39_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=hvnbWIjE08g&list=RDhvnbWIjE08g&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 44 in Mi minore “Trauersinfonie” (1772)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._44_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=h3mYvbGiyL0&list=RDh3mYvbGiyL0&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 45 in Fa diesis minore \"degli addii\" (1772)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._45_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=guFtLJjRuz4&list=RDguFtLJjRuz4&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 49 “La Passione” (1768)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._49_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=UYss0tt61hk&list=RDUYss0tt61hk&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 83 in Sol minore “la Gallina” (1785)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._83_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=6rD32fnEvyA&list=RD6rD32fnEvyA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 94 in Sol maggiore “della sorpresa” (1791)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._94_(Haydn)",
         "link_youtube": "https://www.youtube.com/watch?v=Pb4nRgwQ5Jk&list=RDPb4nRgwQ5Jk&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 104 in Re maggiore “London” (1795)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._104_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=wtQ-soq1Ito&list=RDwtQ-soq1Ito&start_radio=1"
+      },
+      {
+        "titolo": "Quartetto op.76 no.3 in Do Maggiore “Kaiserquartett” (1797)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Quartetti_per_archi_di_Haydn",
+        "link_youtube": "https://www.youtube.com/watch?v=JfxpaUYTFy8&list=RDJfxpaUYTFy8&start_radio=1"
       }
     ]
   },
@@ -37,9 +209,24 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
     "composizioni": [
       {
-        "titolo": "Le nozze di Figaro (1786)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_nozze_di_Figaro",
-        "link_youtube": "https://www.youtube.com/watch?v=vf4otVv1SL8&list=RDvf4otVv1SL8&start_radio=1"
+        "titolo": "Divertimento n. 1 in Re maggiore K 136 (1772)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Divertimento_n._1_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=qVKpF8KNoOA&list=RDqVKpF8KNoOA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 31 in Re maggiore K 297 “sinfonia Parigi” (1778)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._31_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=FIusbSphX-k&list=RDFIusbSphX-k&start_radio=1"
+      },
+      {
+        "titolo": "Messa dell'incoronazione (1779)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messa_dell%27incoronazione",
+        "link_youtube": "https://www.youtube.com/watch?v=asd4hhB6AI8&list=RDasd4hhB6AI8&start_radio=1"
+      },
+      {
+        "titolo": "Vesperae solennes de confessore K 339 (1780)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Vesperae_solennes_de_confessore",
+        "link_youtube": "https://www.youtube.com/watch?v=8gK0pGtOZrE&list=RD8gK0pGtOZrE&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 35 in Re maggiore K 385 ‘Haffner’ (1782)",
@@ -47,9 +234,64 @@
         "link_youtube": "https://www.youtube.com/watch?v=AUnKeRz5n0c&list=RDAUnKeRz5n0c&start_radio=1"
       },
       {
+        "titolo": "Sonata per pianoforte n. 11 in La maggiore K 331 (1783)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sonata_per_pianoforte_n._11_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=FZ1mj9IaczQ&list=RDFZ1mj9IaczQ&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per corno e orchestra n. 2 in Mi bemolle K 417 (1783)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_corno_e_orchestra_n._2",
+        "link_youtube": "https://www.youtube.com/watch?v=M5OYWx3iZ5w&list=RDM5OYWx3iZ5w&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 36 in Do maggiore K 425 “sinfonia Linz” (1783)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._36_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=tLrmyb9-jjg&list=RDtLrmyb9-jjg&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 20, KV 466 (1785)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._20_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=VSfnid4FNzc&list=RDVSfnid4FNzc&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 21 in Do maggiore KV 467 (1785)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._21_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=v1FEvl2lcUo&list=RDv1FEvl2lcUo&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 25 in Do maggiore K 503 (1786)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._25_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=rcW4ocPgsSM&list=RDrcW4ocPgsSM&start_radio=1"
+      },
+      {
+        "titolo": "Le nozze di Figaro (1786)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_nozze_di_Figaro",
+        "link_youtube": "https://www.youtube.com/watch?v=vf4otVv1SL8&list=RDvf4otVv1SL8&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per corno e orchestra n. 3, K 447 (1787)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_corno_e_orchestra_n._3_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=p3pShcflL8w&list=RDp3pShcflL8w&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per corno e orchestra n. 4 in Mi bemolle maggiore K 495 (1787)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_corno_e_orchestra_n._4",
+        "link_youtube": "https://www.youtube.com/watch?v=gtOkOYTM_5E&list=RDgtOkOYTM_5E&start_radio=1"
+      },
+      {
         "titolo": "Don Giovanni (1787)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Don_Giovanni_(opera)",
         "link_youtube": "https://www.youtube.com/watch?v=E1d2h7tMDmI&list=RDE1d2h7tMDmI&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 39 in Mi bemolle maggiore K 543 (1788)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._39_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=YDDf0P2G44I&list=RDYDDf0P2G44I&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 40 in Sol minore K 550 (1788)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._40_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=p8bZ7vm4_6M&list=RDp8bZ7vm4_6M&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 41 in Do maggiore K 551 ‘Jupiter’ (1788)",
@@ -57,14 +299,19 @@
         "link_youtube": "https://www.youtube.com/watch?v=yZpFrydm6G4&list=RDyZpFrydm6G4&start_radio=1"
       },
       {
-        "titolo": "Sinfonia n. 40 in sol minore K 550 (1788)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._40_(Mozart)",
-        "link_youtube": "https://www.youtube.com/watch?v=p8bZ7vm4_6M&list=RDp8bZ7vm4_6M&start_radio=1"
+        "titolo": "Concerto per pianoforte e orchestra n. 27 in Si bemolle maggiore K 595 (1791)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._27_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=kB0ftjNcArs&list=RDkB0ftjNcArs&start_radio=1"
       },
       {
         "titolo": "Il flauto magico (1791)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_flauto_magico",
         "link_youtube": "https://www.youtube.com/watch?v=cE64eIZi9Lw"
+      },
+      {
+        "titolo": "Concerto per clarinetto e orchestra in La maggiore KV 622 (1791)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_clarinetto_e_orchestra_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=HX0Q-0Cw-TA&list=RDHX0Q-0Cw-TA&start_radio=1"
       },
       {
         "titolo": "Requiem (1791)",
@@ -78,14 +325,99 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Ludwig_van_Beethoven",
     "composizioni": [
       {
-        "titolo": "Sinfonia n. 5 in do minore Op. 67 (1808)",
+        "titolo": "Concerto per pianoforte e orchestra n. 2 Op. 19 (1789)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=mp7xXwPOShM"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 1 Op. 15 (1795)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._1_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=Vhpc0Q7LCMg&list=RDVhpc0Q7LCMg&start_radio=1"
+      },
+      {
+        "titolo": "Sonata per pianoforte n. 8 ‘Patetica’, Op. 13 (1799)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sonata_per_pianoforte_n._8_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=XuldgIR02dY&list=RDXuldgIR02dY&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 1 in do maggiore Op. 21 (1800)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=kJ8dNEnrZUw&list=RDkJ8dNEnrZUw&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 3 Op. 37 (1800)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._3_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=-Tm0Phjiouk&list=RD-Tm0Phjiouk&start_radio=1"
+      },
+      {
+        "titolo": "Sonata per pianoforte n. 14 ‘Al chiaro di luna’, Op. 27 (1801)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sonata_per_pianoforte_n._14_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=ITidiBe-0T0&list=RDITidiBe-0T0&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 2 in re maggiore Op. 36 (1802)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=_Duki30rC2E&list=RD_Duki30rC2E&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 3 in mi bemolle maggiore Op. 55 “Eroica” (1804)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=RkP33esCi5g&list=RDRkP33esCi5g&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 4 in Si bemolle maggiore Op. 60 (1806)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=z_OIkfkQaBI&list=RDz_OIkfkQaBI&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 4 Op. 58 (1806)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._4_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=njXYoV-MytE&list=RDnjXYoV-MytE&start_radio=1"
+      },
+      {
+        "titolo": "Messa in Do maggiore, Op. 86 (1807)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messa_in_Do_maggiore_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=wOjrhh1Fcvk&list=RDwOjrhh1Fcvk&start_radio=1"
+      },
+      {
+        "titolo": "Ouverture Coriolano op. 62 (1807)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Coriolano_(ouverture)",
+        "link_youtube": "https://www.youtube.com/watch?v=P59rhbs1Xcs&list=RDP59rhbs1Xcs&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 5 in Do minore Op. 67 (1808)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Beethoven)",
         "link_youtube": "https://www.youtube.com/watch?v=zWP9fkCuqi8"
       },
       {
-        "titolo": "Sinfonia n. 6 in fa maggiore Op. 68 ‘Pastorale’",
+        "titolo": "Sinfonia n. 6 in Fa maggiore Op. 68 ‘Pastorale’ (1808)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._6_(Beethoven)",
         "link_youtube": "https://www.youtube.com/watch?v=40vp0Veqglg&list=RD40vp0Veqglg&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 5 Op. 73 “Imperatore” (1809)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._5_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=K25fZRwbeGM"
+      },
+      {
+        "titolo": "Ouverture Egmont op. 84 (1810)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Egmont_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=5iUgfb3ECug&list=RD5iUgfb3ECug&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 7 in La maggiore Op. 92 (1812)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=EksyIwyVf4k&list=RDEksyIwyVf4k&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 8 in Fa maggiore Op. 93 (1812)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=GQ7-hbEWdw8&list=RDGQ7-hbEWdw8&start_radio=1"
+      },
+      {
+        "titolo": "Missa solemnis in Re maggiore, Op. 123 (1823)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Missa_solemnis_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=vKiSTL6UrFk&list=RDvKiSTL6UrFk&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 9 in Re minore (1824)",
@@ -95,13 +427,64 @@
     ]
   },
   {
+    "compositore": "Nicolò Paganini (1782-1840)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Niccol%C3%B2_Paganini",
+    "composizioni": [
+      {
+        "titolo": "Concerto per violino n. 2 in Si minore ‘La Campanella’ (1826)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_n._2_(Paganini)",
+        "link_youtube": "https://www.youtube.com/watch?v=uOeDvBPlpe0&list=RDuOeDvBPlpe0&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violino n. 4 in re minore (1829)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_n._4_(Paganini)",
+        "link_youtube": "https://www.youtube.com/watch?v=Rih-hthoNQQ&list=RDRih-hthoNQQ&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Gioachino Rossini (1792-1868)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Gioachino_Rossini",
     "composizioni": [
       {
+        "titolo": "La scala di seta – Ouverture (1812)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_scala_di_seta",
+        "link_youtube": "https://www.youtube.com/watch?v=NTz4rpXtXes&list=RDNTz4rpXtXes&start_radio=1"
+      },
+      {
+        "titolo": "Il Signor Bruschino – Ouverture (1813)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_signor_Bruschino",
+        "link_youtube": "https://www.youtube.com/watch?v=VpLZ2kte7DY&list=RDVpLZ2kte7DY&start_radio=1"
+      },
+      {
+        "titolo": "L'italiana in Algeri – Ouverture (1813)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L'italiana_in_Algeri",
+        "link_youtube": "https://www.youtube.com/watch?v=Ta5q9_UBL4w&list=RDTa5q9_UBL4w&start_radio=1"
+      },
+      {
         "titolo": "Il barbiere di Siviglia (1816)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_barbiere_di_Siviglia_(Rossini)",
         "link_youtube": "https://www.youtube.com/watch?v=bH01MQ2aqY4"
+      },
+      {
+        "titolo": "La gazza ladra – Ouverture (1817)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_gazza_ladra",
+        "link_youtube": "https://www.youtube.com/watch?v=3MIbDR1QRHs&list=RD3MIbDR1QRHs&start_radio=1"
+      },
+      {
+        "titolo": "Semiramide – Ouverture (1823)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Semiramide_(Rossini)",
+        "link_youtube": "https://www.youtube.com/watch?v=Q5jJ5qzIy04&list=RDQ5jJ5qzIy04&start_radio=1"
+      },
+      {
+        "titolo": "Guglielmo Tell – Ouverture (1828)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ouverture_del_Guglielmo_Tell",
+        "link_youtube": "https://www.youtube.com/watch?v=f2YW5f1hv9E&list=RDf2YW5f1hv9E&start_radio=1"
+      },
+      {
+        "titolo": "Petite messe solennelle (1863)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Petite_messe_solennelle",
+        "link_youtube": "https://www.youtube.com/watch?v=1yEAt8Da0EE&list=RD1yEAt8Da0EE&start_radio=1"
       }
     ]
   },
@@ -113,6 +496,16 @@
         "titolo": "Sinfonia n. 8 in Si minore D 759 ‘Incompiuta’ (1822)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Schubert)",
         "link_youtube": "https://www.youtube.com/watch?v=cdhBumzco8g&list=RDcdhBumzco8g&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 9 in Do maggiore D 944 ‘La Grande’ (1826)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Schubert)",
+        "link_youtube": "https://www.youtube.com/watch?v=GMF6bUR7Ohc&list=RDGMF6bUR7Ohc&start_radio=1"
+      },
+      {
+        "titolo": "Deutsche Messe D 872 (1827)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Deutsche_Messe",
+        "link_youtube": "https://www.youtube.com/watch?v=tYxn4gB62Og&list=RDtYxn4gB62Og&start_radio=1"
       }
     ]
   },
@@ -139,13 +532,39 @@
     ]
   },
   {
-    "compositore": "Hector Berlioz 1803-1869)",
+    "compositore": "Hector Berlioz (1803-1869)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Hector_Berlioz",
     "composizioni": [
       {
-        "titolo": "Sinfonia fantastica (1830)",
+        "titolo": "Sinfonia fantastica op. 14 (1830)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_fantastica",
         "link_youtube": "https://www.youtube.com/watch?v=sdYRYbjCcJg&list=RDsdYRYbjCcJg&start_radio=1"
+      },
+      {
+        "titolo": "Harold en Italie op. 16 (1834)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Aroldo_in_Italia",
+        "link_youtube": "https://www.youtube.com/watch?v=Ml4v6Ub6AOc&list=RDMl4v6Ub6AOc&start_radio=1"
+      },
+      {
+        "titolo": "Grande messe des morts op. 5 (1837)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Requiem_(Berlioz)",
+        "link_youtube": "https://www.youtube.com/watch?v=ZJQqEFp6Oqs&list=RDZJQqEFp6Oqs&start_radio=1"
+      },
+      {
+        "titolo": "Roméo et Juliette op.17 (1839)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette",
+        "link_youtube": "https://www.youtube.com/watch?v=zf7kGcB4VSQ&list=RDzf7kGcB4VSQ&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Johann Baptist Strauss (1804-1849)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Johann_Strauss_(1804)",
+    "composizioni": [
+      {
+        "titolo": "Marcia di Radetzky (1848)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Marcia_di_Radetzky",
+        "link_youtube": "https://www.youtube.com/watch?v=xhEGMSOIptw&list=RDxhEGMSOIptw&start_radio=1"
       }
     ]
   },
@@ -157,6 +576,21 @@
         "titolo": "Sinfonia n. 4 in la maggiore, op. 90 ‘Italiana’ (1830)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Mendelssohn)",
         "link_youtube": "https://www.youtube.com/watch?v=ovPdGKXxmO4&list=RDovPdGKXxmO4&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 5 in re minore, Op. 107 ‘Riforma’ (1830)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Mendelssohn)",
+        "link_youtube": "https://www.youtube.com/watch?v=Yznb4uKr-0E&list=RDYznb4uKr-0E&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 3 in la minore, op. 56  ‘Scozzese’ (1842)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Mendelssohn)",
+        "link_youtube": "https://www.youtube.com/watch?v=rw6slNXSzNg&list=RDrw6slNXSzNg&start_radio=1"
+      },
+      {
+        "titolo": "Sogno di una notte di mezza estate (1842)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sogno_di_una_notte_di_mezza_estate_(Mendelssohn)",
+        "link_youtube": "https://www.youtube.com/watch?v=njdTB6HxTj8&list=RDnjdTB6HxTj8&start_radio=1"
       }
     ]
   },
@@ -165,9 +599,24 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Robert_Schumann",
     "composizioni": [
       {
+        "titolo": "Sinfonia n. 1 in Si bemolle maggiore Op. 38 ‘Primavera’ (1841)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Schumann)",
+        "link_youtube": "https://www.youtube.com/watch?v=4YpkT_WGVnA&list=RD4YpkT_WGVnA&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra in la minore, Op. 54 (1845)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_(Schumann)",
+        "link_youtube": "https://www.youtube.com/watch?v=3jbHbDena_U&t=1794s"
+      },
+      {
         "titolo": "Sinfonia n. 3 in Mib Maggiore Op. 97 ‘Renana’ (1850)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Schumann)",
         "link_youtube": "https://www.youtube.com/watch?v=i5Y2wBGbiIA&list=RDi5Y2wBGbiIA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 4 in Re minore Op.120 (1853)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Schumann)",
+        "link_youtube": "https://www.youtube.com/watch?v=qqx9uO05b1g&list=RDqqx9uO05b1g&start_radio=1"
       }
     ]
   },
@@ -176,9 +625,19 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Fryderyk_Chopin",
     "composizioni": [
       {
+        "titolo": "Gran Valzer brillante in Mi bemolle maggiore op. 18 (1831)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Gran_Valzer_brillante",
+        "link_youtube": "https://www.youtube.com/watch?v=LG-E4PVGQSI&list=RDFZ1mj9IaczQ&index=2"
+      },
+      {
         "titolo": "Notturni (1830-35)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Notturni_(Chopin)",
         "link_youtube": "https://www.youtube.com/watch?v=3AIxf7CFToQ&list=RD3AIxf7CFToQ&start_radio=1"
+      },
+      {
+        "titolo": "Scherzo in Si bemolle minore op. 31 (1837)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Scherzo_n._2_(Chopin)",
+        "link_youtube": "https://www.youtube.com/watch?v=OCUSalQf-jY"
       }
     ]
   },
@@ -190,6 +649,31 @@
         "titolo": "Rapsodie ungheresi (1846-53)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rapsodie_ungheresi",
         "link_youtube": "https://www.youtube.com/watch?v=4YePVuJCtFg&list=RD4YePVuJCtFg&start_radio=1"
+      },
+      {
+        "titolo": "Liebestraum (1850)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sogno_d%27amore_(Liszt)",
+        "link_youtube": "https://www.youtube.com/watch?v=FZ651tNXp0Y&list=RDFZ651tNXp0Y&start_radio=1"
+      },
+      {
+        "titolo": "Faust-Symphonie (1854)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Faust-Symphonie",
+        "link_youtube": "https://www.youtube.com/watch?v=le8BdI8C-_E&list=RDle8BdI8C-_E&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 1 in Mi bemolle maggiore (1855)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._1_(Liszt)",
+        "link_youtube": "https://www.youtube.com/watch?v=N8OqE6oZfXI&list=RDN8OqE6oZfXI&start_radio=1"
+      },
+      {
+        "titolo": "Les Préludes (1856)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Les_Pr%C3%A9ludes",
+        "link_youtube": "https://www.youtube.com/watch?v=BdRyBtYSQAc&list=RDBdRyBtYSQAc&start_radio=1"
+      },
+      {
+        "titolo": "Totentanz (1859)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Totentanz",
+        "link_youtube": "https://www.youtube.com/watch?v=ScqeArnDoaE&list=RDScqeArnDoaE&start_radio=1"
       }
     ]
   },
@@ -220,9 +704,34 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Anton_Bruckner",
     "composizioni": [
       {
+        "titolo": "Messa n. 3 in fa minore (1868)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Mass_No._3_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=x-nDMGg9kDA&list=RDx-nDMGg9kDA&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 4 in mi bemolle maggiore ‘Romantica’ (1881)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Bruckner)",
         "link_youtube": "https://www.youtube.com/watch?v=JCxdHIEHELE&list=RDJCxdHIEHELE&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 7 in mi maggiore (1883)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=uaV3eEJB55c&list=RDuaV3eEJB55c&start_radio=1"
+      },
+      {
+        "titolo": "Te Deum in do maggiore (1885)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Te_Deum_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=1bKJTvIA6u8&list=RD1bKJTvIA6u8&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 8 in do minore (1887)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=PyaX-tuIXgI&list=RDPyaX-tuIXgI&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 9 in Re minore (1887)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=swULVZ5zLkM&list=RDswULVZ5zLkM&start_radio=1"
       }
     ]
   },
@@ -238,13 +747,64 @@
     ]
   },
   {
+    "compositore": "Johann Strauss (1825-1899)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Johann_Strauss_(1825)",
+    "composizioni": [
+      {
+        "titolo": "Sul bel Danubio blu (1866)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sul_bel_Danubio_blu",
+        "link_youtube": "https://www.youtube.com/watch?v=fHzhDKwYP2s&list=RDfHzhDKwYP2s&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Johannes Brahms (1833-1897)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Johannes_Brahms",
     "composizioni": [
       {
+        "titolo": "Sinfonia n. 1 in Do minore Op. 68 (1862)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=-B9nERqEmUA&list=RD-B9nERqEmUA&start_radio=1"
+      },
+      {
+        "titolo": "Ein deutsches Requiem (1868)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ein_deutsches_Requiem",
+        "link_youtube": "https://www.youtube.com/watch?v=jeCtv_2Zgu0&list=RDjeCtv_2Zgu0&start_radio=1"
+      },
+      {
+        "titolo": "Danze ungheresi per orchestra (1873)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Danze_ungheresi",
+        "link_youtube": "https://www.youtube.com/watch?v=CxC11gtMTN8&list=RDCxC11gtMTN8&start_radio=1&t=28s"
+      },
+      {
+        "titolo": "Sinfonia n. 2 in re maggiore Op. 73 (1877)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=vx3JVOTcI-0&list=RDvx3JVOTcI-0&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violino op. 77 (1878)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=K503UAz-8C4&list=RDK503UAz-8C4&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 2 Op. 83 (1881)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=VghJWGQ2IU0&list=RDVghJWGQ2IU0&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 3 in fa maggiore Op. 90 (1883)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=u68ETRjNQME&list=RDu68ETRjNQME&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 4 in mi minore Op. 98 (1885)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Brahms)",
         "link_youtube": "https://www.youtube.com/watch?v=_M4ub-Nia2Q&list=RD_M4ub-Nia2Q&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violino e violoncello in la minore, op. 102 ‘Doppio Concerto’",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Doppio_concerto_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=d8Zxq8jGIF4&list=RDd8Zxq8jGIF4&start_radio=1"
       }
     ]
   },
@@ -253,9 +813,34 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns",
     "composizioni": [
       {
+        "titolo": "Introduzione e Rondò Capriccioso op. 28 (1863)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Introduzione_e_Rondò_Capriccioso",
+        "link_youtube": "https://www.youtube.com/watch?v=fhjvGpMm-q0&list=RDfhjvGpMm-q0&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte n. 2 in sol minore Op. 22 (1868)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Saint-Saëns)",
+        "link_youtube": "https://www.youtube.com/watch?v=tVCvJZtzkqQ&list=RDtVCvJZtzkqQ&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violoncello e orchestra n° 1 in la minore op. 33 (1873)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violoncello_e_orchestra_n._1_(Saint-Saëns)",
+        "link_youtube": "https://www.youtube.com/watch?v=hH-rkuC0lU8&list=RDhH-rkuC0lU8&start_radio=1"
+      },
+      {
+        "titolo": "Danza Macabra op. 40 (1874)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Danza_Macabra_(Saint-Saëns)",
+        "link_youtube": "https://www.youtube.com/watch?v=ZDWMoJz8OYU&list=RDZDWMoJz8OYU&start_radio=1"
+      },
+      {
         "titolo": "Il carnevale degli animali (1886)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_carnevale_degli_animali",
         "link_youtube": "https://www.youtube.com/watch?v=7SjagpXeNhM&list=RD7SjagpXeNhM&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 3 in do minore, op. 78 ‘Organo’ (1886)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Saint-Sa%C3%ABns)",
+        "link_youtube": "https://www.youtube.com/watch?v=Bi5CPm96rCE&list=RDBi5CPm96rCE&start_radio=1"
       }
     ]
   },
@@ -278,6 +863,11 @@
         "titolo": "Una notte sul Monte Calvo (1867)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Una_notte_sul_Monte_Calvo",
         "link_youtube": "https://www.youtube.com/watch?v=oxx3y6LPUPc&list=RDoxx3y6LPUPc&start_radio=1"
+      },
+      {
+        "titolo": "Quadri di un'esposizione (1874)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Quadri_di_un'esposizione",
+        "link_youtube": "https://www.youtube.com/watch?v=iKf-7IKyzfc&list=RDiKf-7IKyzfc&start_radio=1"
       }
     ]
   },
@@ -286,9 +876,69 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/P%C3%ABtr_Il'i%C4%8D_%C4%8Cajkovskij",
     "composizioni": [
       {
+        "titolo": "Romeo e Giulietta (1870)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Romeo_e_Giulietta_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=yEmsXdCjsos&list=RDyEmsXdCjsos&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 1 in si bemolle minore, op. 23 (1875)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._1_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=nBsl7D9i6aM&list=RDnBsl7D9i6aM&start_radio=1"
+      },
+      {
+        "titolo": "Il lago dei cigni (1876)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_lago_dei_cigni",
+        "link_youtube": "https://www.youtube.com/watch?v=OSVSlddJMn8&list=RDOSVSlddJMn8&start_radio=1"
+      },
+      {
+        "titolo": "Variazioni su un tema rococò, Op. 33 (1877)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Variazioni_su_un_tema_rococò",
+        "link_youtube": "https://www.youtube.com/watch?v=ygkRtPsgnf4&list=RDygkRtPsgnf4&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violino e orchestra in re maggiore op. 35 (1878)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=2Q_DzWUvcL8&list=RD2Q_DzWUvcL8&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 4 in fa minore, op. 36 (1878)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(%C4%8Cajkovskij)",
         "link_youtube": "https://www.youtube.com/watch?v=EdxkixfK1Dg&list=RDEdxkixfK1Dg&start_radio=1"
+      },
+      {
+        "titolo": "Liturgia di San Giovanni Crisostomo (1878)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Liturgia_di_San_Giovanni_Crisostomo_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=DmM4i7rj_3g&list=RDDmM4i7rj_3g&start_radio=1"
+      },
+      {
+        "titolo": "Serenata per orchestra d'archi in do maggiore, Op. 48 (1880)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Serenata_per_archi_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=CSu86-1BruE&list=RDCSu86-1BruE&start_radio=1"
+      },
+      {
+        "titolo": "Ouverture 1812 (1880)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ouverture_1812",
+        "link_youtube": "https://www.youtube.com/watch?v=r92NiK08l6Q&list=RDr92NiK08l6Q&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 5 in Mi minore Op. 64 (1888)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=ljG5OUNEkMY&list=RDljG5OUNEkMY&start_radio=1"
+      },
+      {
+        "titolo": "La bella addormentata (1889)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_bella_addormentata_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=g2Cb9KBfmGU&list=RDg2Cb9KBfmGU&start_radio=1"
+      },
+      {
+        "titolo": "Lo schiaccianoci (1892)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Lo_schiaccianoci",
+        "link_youtube": "https://www.youtube.com/watch?v=aB1eMfylQhE&list=RDaB1eMfylQhE&start_radio=1&t=7s"
+      },
+      {
+        "titolo": "Sinfonia n. 6 in Si minore ‘Patetica’, op. 74 (1893)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._6_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=o147jpVKFCI&list=RDo147jpVKFCI&start_radio=1&t=243s"
       }
     ]
   },
@@ -297,9 +947,44 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
     "composizioni": [
       {
-        "titolo": "Sinfonia n. 9 in Mi minore ‘Dal Nuovo Mondo’ (1893)",
+        "titolo": "Stabat Mater, Op. 58 (1877)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Stabat_Mater_(Dvořák)",
+        "link_youtube": "https://www.youtube.com/watch?v=mwc-SyN2X4I&list=RDmwc-SyN2X4I&start_radio=1"
+      },
+      {
+        "titolo": "Danze slave, Op. 46 e 72 (1878-1886)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Danze_slave",
+        "link_youtube": "https://www.youtube.com/watch?v=5pSpxmWpIQA&list=RD5pSpxmWpIQA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 7 in Re minore, Op. 70 (1885)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Dvořák)",
+        "link_youtube": "https://www.youtube.com/watch?v=bkJxMs5104Q&list=RDbkJxMs5104Q&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 8 in Sol maggiore \"Inglese\", Op. 88 (1889)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Dvořák)",
+        "link_youtube": "https://www.youtube.com/watch?v=wIBtWyKj-vA&list=RDwIBtWyKj-vA&start_radio=1"
+      },
+      {
+        "titolo": "Requiem in si bemolle minore, Op. 89 (1890)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Requiem_(Dvořák)",
+        "link_youtube": "https://www.youtube.com/watch?v=7VvX2V3jAG4&list=RD7VvX2V3jAG4&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 9 in Mi minore ‘Dal Nuovo Mondo’, Op. 95 (1893)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Dvo%C5%99%C3%A1k)",
         "link_youtube": "https://www.youtube.com/watch?v=uOmaQSqnPfw&list=RDuOmaQSqnPfw&start_radio=1"
+      },
+      {
+        "titolo": "Quartetto per archi n. 12 \"Americano\", Op. 96 (1893)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/String_Quartet_No._12_(Dvořák)",
+        "link_youtube": "https://www.youtube.com/watch?v=eIkcRA73PUs&list=RDeIkcRA73PUs&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violoncello in Si minore, Op. 104 (1895)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violoncello_e_orchestra_n._2_(Dvořák)",
+        "link_youtube": "https://www.youtube.com/watch?v=wBFeeOt_SGY&list=RDwBFeeOt_SGY&start_radio=1"
       }
     ]
   },
@@ -307,6 +992,11 @@
     "compositore": "Edvard Hagerup Grieg (1843-1907)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Edvard_Grieg",
     "composizioni": [
+      {
+        "titolo": "Concerto per pianoforte e orchestra in La minore op. 16 (1868)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_(Grieg)",
+        "link_youtube": "https://www.youtube.com/watch?v=j47K2kNbmaA&list=RDj47K2kNbmaA&start_radio=1"
+      },
       {
         "titolo": "Peer Gynt op. 23 (1875)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Peer_Gynt_(Grieg)",
@@ -319,9 +1009,19 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Nikolaj_Andreevi%C4%8D_Rimskij-Korsakov",
     "composizioni": [
       {
+        "titolo": "Capriccio spagnolo, Op. 34 (1887)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Capriccio_spagnolo",
+        "link_youtube": "https://www.youtube.com/watch?v=X_HSpn3tE_A"
+      },
+      {
         "titolo": "Shahrazād, Op. 35 (1888)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Shahraz%C4%81d_(Rimskij-Korsakov)",
         "link_youtube": "https://www.youtube.com/watch?v=6exoB7IW8qw&list=RD6exoB7IW8qw&start_radio=1"
+      },
+      {
+        "titolo": "La grande Pasqua russa, Op. 36 (1888)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_grande_Pasqua_russa",
+        "link_youtube": "https://www.youtube.com/watch?v=M7BPlOirPig&list=RDM7BPlOirPig&start_radio=1"
       }
     ]
   },
@@ -330,9 +1030,54 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Gustav_Mahler",
     "composizioni": [
       {
+        "titolo": "Sinfonia n. 1 in Re maggiore ‘il Titano’ (1889)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=4XbHLFkg_Mw&list=RD4XbHLFkg_Mw&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 2 in do minore ‘Resurrezione’ (1897)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=Oi6ZjkXFlcU&list=RDOi6ZjkXFlcU&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 3 in re minore (1896)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=9Yr720ftjaA&list=RD9Yr720ftjaA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 4 in Sol maggiore (1900)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=fETsZU29AHw&list=RDfETsZU29AHw&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 5 (1902)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=MFkLJzd7CH8&list=RDMFkLJzd7CH8&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 6 in la minore (1904)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._6_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=BfKC6FcCNTo&list=RDBfKC6FcCNTo&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 7 in Mi minore (1906)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=Yez4y82yrlg&list=RDYez4y82yrlg&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 8 in Mi bemolle maggiore ‘Sinfonia dei Mille’ (1907)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Mahler)",
-        "link_youtube": "https://www.youtube.com/watch?v=kYVMzfWnXMk&list=RDkYVMzfWnXMk&start_radio=1"
+        "link_youtube": "https://www.youtube.com/watch?v=V2nfA8f7ugc&list=RDV2nfA8f7ugc&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 9 in Re maggiore (1910)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=BN1jACkYS0s&list=RDBN1jACkYS0s&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 10 in Fa diesis maggiore (1911)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._10_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=vHyV8noUXC0&list=RDvHyV8noUXC0&start_radio=1"
       }
     ]
   },
@@ -344,6 +1089,26 @@
         "titolo": "Prélude à l'après-midi d'un faune (1894)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune",
         "link_youtube": "https://www.youtube.com/watch?v=8UAYCubihlc&list=RD8UAYCubihlc&start_radio=1"
+      },
+      {
+        "titolo": "Nocturnes (1899)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Nocturnes_(Debussy)",
+        "link_youtube": "https://www.youtube.com/watch?v=1s4LZbr_h50&list=RD1s4LZbr_h50&start_radio=1"
+      },
+      {
+        "titolo": "Clair de Lune – Suite bergamasque (1905)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Suite_bergamasque",
+        "link_youtube": "https://www.youtube.com/watch?v=lxcHoICbJlM&list=RDlxcHoICbJlM&start_radio=1"
+      },
+      {
+        "titolo": "La Mer (1905)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_Mer",
+        "link_youtube": "https://www.youtube.com/watch?v=SgSNgzA37To&list=RDSgSNgzA37To&start_radio=1"
+      },
+      {
+        "titolo": "Images per orchestra (1912)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Images_per_orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=jp-C3Lbgo5M&list=RDjp-C3Lbgo5M&start_radio=1"
       }
     ]
   },
@@ -352,9 +1117,34 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Richard_Strauss",
     "composizioni": [
       {
+        "titolo": "Don Juan, op. 20 (1888)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Don_Juan_(Strauss)",
+        "link_youtube": "https://www.youtube.com/watch?v=BBPZR33LJBk&list=RDBBPZR33LJBk&start_radio=1"
+      },
+      {
+        "titolo": "I tiri burloni di Till Eulenspiegel, Op. 28 (1895)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/I_tiri_burloni_di_Till_Eulenspiegel",
+        "link_youtube": "https://www.youtube.com/watch?v=SS7dy3c8gZM&list=RDSS7dy3c8gZM&start_radio=1"
+      },
+      {
         "titolo": "Così parlò Zarathustra Op. 30 (1896)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Cos%C3%AC_parl%C3%B2_Zarathustra_(Strauss)",
         "link_youtube": "https://www.youtube.com/watch?v=GfwAPg4rQQE&list=RDGfwAPg4rQQE&start_radio=1"
+      },
+      {
+        "titolo": "Don Quixote, Op. 35 (1897)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Don_Quixote_(Strauss)",
+        "link_youtube": "https://www.youtube.com/watch?v=0o9C1x8Pw0A&list=RD0o9C1x8Pw0A&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia delle alpi, op. 64 (1915)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Una_sinfonia_alpina",
+        "link_youtube": "https://www.youtube.com/watch?v=Q3RR0KJSlAE&list=RDQ3RR0KJSlAE&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per oboe e piccola orchestra, in re maggiore (1946)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Oboe_Concerto_(Strauss)",
+        "link_youtube": "https://www.youtube.com/watch?v=vgPk34f0-JA&list=RDvgPk34f0-JA&start_radio=1"
       }
     ]
   },
@@ -363,9 +1153,44 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Jean_Sibelius",
     "composizioni": [
       {
+        "titolo": "Sinfonia n.1 in mi minore, op. 39 (1898)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=ACqPJ1CRQ3k&list=RDACqPJ1CRQ3k&start_radio=1"
+      },
+      {
+        "titolo": "Finlandia, Op. 26 (1899)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Finlandia_(poema_sinfonico)",
+        "link_youtube": "https://www.youtube.com/watch?v=qOSaT6U4e-8&list=RDqOSaT6U4e-8&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 2 in re maggiore, op. 43 (1902)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=iXU8EXL7a_4&list=RDiXU8EXL7a_4&start_radio=1"
+      },
+      {
+        "titolo": "Pelléas et Mélisande (1905)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pell%C3%A9as_et_M%C3%A9lisande_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=7rq-9i8U9o8"
+      },
+      {
+        "titolo": "Sinfonia n. 4 in la minore, op. 63 (1909)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=t3_nhltnEzU&list=RDt3_nhltnEzU&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 5 in Mi bemolle maggiore Op. 82 (1915)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Sibelius)",
         "link_youtube": "https://www.youtube.com/watch?v=RRS6dIgn_QI"
+      },
+      {
+        "titolo": "Sinfonia n. 7 in do maggiore, op. 105 (1924)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=1DQUKpanJOE&list=RD1DQUKpanJOE&start_radio=1"
+      },
+      {
+        "titolo": "Tapiola, Op. 112 (1926)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Tapiola_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=gkX-Uc0e3TQ&list=RDgkX-Uc0e3TQ&start_radio=1"
       }
     ]
   },
@@ -377,6 +1202,11 @@
         "titolo": "L'apprendista stregone (1897)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L%27apprendista_stregone_(poema_sinfonico)",
         "link_youtube": "https://www.youtube.com/watch?v=O_bdguZEI8Q&list=RDO_bdguZEI8Q&start_radio=1"
+      },
+      {
+        "titolo": "Fanfara da La Péri (1910)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_Péri_(Dukas)",
+        "link_youtube": "https://www.youtube.com/watch?v=7EDekMos1ok&list=RD7EDekMos1ok&start_radio=1"
       }
     ]
   },
@@ -385,9 +1215,49 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Sergej_Vasil'evi%C4%8D_Rachmaninov",
     "composizioni": [
       {
+        "titolo": "Concerto per pianoforte e orchestra n. 1 in fa diesis minore, op. 1 (1891)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._1_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=41MLHTg7VQU&list=RD41MLHTg7VQU&start_radio=1"
+      },
+      {
         "titolo": "Concerto per pianoforte e orchestra n. 2 in do minore, Op. 18 (1901)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Rachmaninov)",
-        "link_youtube": "https://www.youtube.com/watch?v=UacBYgyu5uQ&list=RDUacBYgyu5uQ&start_radio=1"
+        "link_youtube": "https://www.youtube.com/watch?v=UacBYgyu5uQ&list=RDUacBYgyu5uQ&start_radio=1&t=289s"
+      },
+      {
+        "titolo": "Sinfonia n. 2 in mi minore, Op. 27 (1907)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=A4qDooMy_Og&list=RDA4qDooMy_Og&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 3 in re minore, op. 30 (1909)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._3_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=5bX_yRzCuM4&list=RD5bX_yRzCuM4&start_radio=1"
+      },
+      {
+        "titolo": "Liturgia di San Giovanni Crisostomo (1910)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Liturgia_di_San_Giovanni_Crisostomo_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=yAm2FjOPAfA&list=RDyAm2FjOPAfA&start_radio=1"
+      },
+      {
+        "titolo": "Veglia per tutta la notte, Op. 37 (1915)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Veglia_per_tutta_la_notte_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=Eqq47VCYWWg&list=RDEqq47VCYWWg&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 4 in sol minore, op. 40 (1926)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._4_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=rhL2qQKE4CU&list=RDrhL2qQKE4CU&start_radio=1"
+      },
+      {
+        "titolo": "Rapsodia su un tema di Paganini, op. 43 (1934)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rapsodia_su_un_tema_di_Paganini",
+        "link_youtube": "https://www.youtube.com/watch?v=xIseGcrNsQs&list=RDxIseGcrNsQs&start_radio=1"
+      },
+      {
+        "titolo": "Danze Sinfoniche, Op. 45 (1940)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Danze_sinfoniche_(Rachmaninov)",
+        "link_youtube": "https://www.youtube.com/watch?v=uq3PK-v6dyE&list=RDuq3PK-v6dyE&start_radio=1"
       }
     ]
   },
@@ -396,9 +1266,49 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg",
     "composizioni": [
       {
+        "titolo": "Verklärte Nacht (1899)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Verkl%C3%A4rte_Nacht",
+        "link_youtube": "https://www.youtube.com/watch?v=L3vclwWOefM&list=RDL3vclwWOefM&start_radio=1"
+      },
+      {
+        "titolo": "Pelleas und Melisande op. 5 (1902)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pelleas_und_Melisande",
+        "link_youtube": "https://www.youtube.com/watch?v=5ChHR8tT8cQ&list=RD5ChHR8tT8cQ&start_radio=1"
+      },
+      {
+        "titolo": "Erwartung, Op. 17 (1909)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Erwartung",
+        "link_youtube": "https://www.youtube.com/watch?v=BYgVReQGaa8&list=RDBYgVReQGaa8&start_radio=1"
+      },
+      {
+        "titolo": "Gurre-Lieder (1911)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Gurre-Lieder",
+        "link_youtube": "https://www.youtube.com/watch?v=_BKYcpI23QY&list=RD_BKYcpI23QY&start_radio=1"
+      },
+      {
+        "titolo": "Cinque pezzi per orchestra, op. 16 (1912)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Five_Pieces_for_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=k1OyCtX48AQ&list=RDk1OyCtX48AQ&start_radio=1"
+      },
+      {
         "titolo": "Pierrot Lunaire Op. 21 (1912)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pierrot_Lunaire_(Sch%C3%B6nberg)",
         "link_youtube": "https://www.youtube.com/watch?v=bd2cBUJmDr8&list=RDbd2cBUJmDr8&start_radio=1"
+      },
+      {
+        "titolo": "Suite per pianoforte, Op. 25 (1923)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Suite_for_Piano_(Schoenberg)",
+        "link_youtube": "https://www.youtube.com/watch?v=TVWbtaZFVjA&list=RDTVWbtaZFVjA&start_radio=1"
+      },
+      {
+        "titolo": "Variazioni per orchestra, op. 31 (1928)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Variations_for_Orchestra_(Schoenberg)",
+        "link_youtube": "https://www.youtube.com/watch?v=yHHUxoa1DDs&list=RDyHHUxoa1DDs&start_radio=1"
+      },
+      {
+        "titolo": "Quartetto per archi n. 4, op. 37 (1936)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/String_Quartets_(Schoenberg)",
+        "link_youtube": "https://www.youtube.com/watch?v=-M-UjOaOQDo&list=RD-M-UjOaOQDo&start_radio=1"
       }
     ]
   },
@@ -407,9 +1317,44 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Maurice_Ravel",
     "composizioni": [
       {
+        "titolo": "Rapsodie espagnole (1908)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rapsodie_espagnole",
+        "link_youtube": "https://www.youtube.com/watch?v=7azWxqtpIi4&list=RD7azWxqtpIi4&start_radio=1"
+      },
+      {
+        "titolo": "Ma mère l'oye (1910)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ma_mère_l'Oye",
+        "link_youtube": "https://www.youtube.com/watch?v=PemXe-kHvSc&list=RDPemXe-kHvSc&start_radio=1"
+      },
+      {
+        "titolo": "Dafni e Cloe (1912)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Dafni_e_Cloe_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=K0o_79U0XHw&list=RDK0o_79U0XHw&start_radio=1"
+      },
+      {
+        "titolo": "La valse (1920)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_valse",
+        "link_youtube": "https://www.youtube.com/watch?v=PN8UneRfjlM&list=RDPN8UneRfjlM&start_radio=1"
+      },
+      {
+        "titolo": "Orchestrazione di Quadri di un'esposizione di Musorgskij (1922)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Quadri_di_un'esposizione",
+        "link_youtube": "https://www.youtube.com/watch?v=S-At9tWyrLs&list=RDS-At9tWyrLs&start_radio=1"
+      },
+      {
         "titolo": "Bolero (1928)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Bol%C3%A9ro_(Ravel)",
         "link_youtube": "https://www.youtube.com/watch?v=Dh9bUD-hC0A&list=RDDh9bUD-hC0A&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra per la mano sinistra (1930)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_la_mano_sinistra",
+        "link_youtube": "https://www.youtube.com/watch?v=ZbEtk1kdYx4&list=RDZbEtk1kdYx4&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte in sol maggiore (1931)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_in_sol_maggiore_(Ravel)",
+        "link_youtube": "https://www.youtube.com/watch?v=aTV-NCaD9pU"
       }
     ]
   },
@@ -418,9 +1363,29 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Ottorino_Respighi",
     "composizioni": [
       {
+        "titolo": "Fontane di Roma (1916)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_fontane_di_Roma",
+        "link_youtube": "https://www.youtube.com/watch?v=y7SH0t54vLY&list=RDy7SH0t54vLY&start_radio=1"
+      },
+      {
+        "titolo": "Concerto gregoriano per violino e orchestra (1921)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Concerto_gregoriano",
+        "link_youtube": "https://www.youtube.com/watch?v=d7xZH6cuV7Q&list=RDd7xZH6cuV7Q&start_radio=1"
+      },
+      {
         "titolo": "I pini di Roma (1924)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/I_pini_di_Roma",
         "link_youtube": "https://www.youtube.com/watch?v=XgE7PUXTrlo&list=RDXgE7PUXTrlo&start_radio=1"
+      },
+      {
+        "titolo": "Vetrate di chiesa (1926)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Vetrate_di_chiesa",
+        "link_youtube": "https://www.youtube.com/watch?v=VNKlGgJd-g8&list=RDVNKlGgJd-g8&start_radio=1"
+      },
+      {
+        "titolo": "Feste romane (1928)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Feste_romane_(Respighi)",
+        "link_youtube": "https://www.youtube.com/watch?v=_ivD3DPENzM&list=RD_ivD3DPENzM&start_radio=1"
       }
     ]
   },
@@ -429,9 +1394,29 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k",
     "composizioni": [
       {
+        "titolo": "Concerto n. 2 per pianoforte e orchestra (1931)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Bart%C3%B3k)",
+        "link_youtube": "https://www.youtube.com/watch?v=jOHl_X_OoIk&list=RDjOHl_X_OoIk&start_radio=1"
+      },
+      {
+        "titolo": "Musica per archi, percussioni e celesta (1936)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Musica_per_archi,_percussioni_e_celesta",
+        "link_youtube": "https://www.youtube.com/watch?v=L0bX1BVXJak&list=RDL0bX1BVXJak&start_radio=1"
+      },
+      {
+        "titolo": "Concerto n. 2 per violino e orchestra (1938)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_n._2_(Bartók)",
+        "link_youtube": "https://www.youtube.com/watch?v=bm3vY59gpno&list=RDbm3vY59gpno&start_radio=1"
+      },
+      {
         "titolo": "Concerto per Orchestra (1943)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_orchestra_(Bart%C3%B3k)",
         "link_youtube": "https://www.youtube.com/watch?v=qnIY6gm0RKw&list=RDqnIY6gm0RKw&start_radio=1"
+      },
+      {
+        "titolo": "Concerto n. 3 per pianoforte e orchestra (1945)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._3_(Bartók)",
+        "link_youtube": "https://www.youtube.com/watch?v=pv26g3QQvBU&list=RDpv26g3QQvBU&start_radio=1"
       }
     ]
   },
@@ -440,9 +1425,54 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Igor%27_F%C3%ABdorovi%C4%8D_Stravinskij",
     "composizioni": [
       {
+        "titolo": "L'uccello di fuoco (1910)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L'uccello_di_fuoco_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=xCf9YXEvHHA&list=RDxCf9YXEvHHA&start_radio=1"
+      },
+      {
+        "titolo": "Petruška (1911)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Petruška_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=qoQburV9hpU&list=RDqoQburV9hpU&start_radio=1"
+      },
+      {
         "titolo": "La Sagra della Primavera (1913)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_sagra_della_primavera",
         "link_youtube": "https://www.youtube.com/watch?v=aAQSQYdMeRQ&list=RDaAQSQYdMeRQ&start_radio=1"
+      },
+      {
+        "titolo": "Pulcinella (1920)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pulcinella_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=yCfjFuQr1Ng&list=RDyCfjFuQr1Ng&start_radio=1"
+      },
+      {
+        "titolo": "Oedipus rex (1927)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Oedipus_Rex_(Stravinskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=9pddkdaAmw0&list=RD9pddkdaAmw0&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia di Salmi, sinfonia corale (1930)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_di_Salmi",
+        "link_youtube": "https://www.youtube.com/watch?v=DOEr5Qbdgmo&list=RDDOEr5Qbdgmo&start_radio=1"
+      },
+      {
+        "titolo": "Messa (1948)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messa_(Stravinskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=IFu2iQuxdso&list=RDIFu2iQuxdso&start_radio=1"
+      },
+      {
+        "titolo": "La carriera di un libertino (1951)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/La_carriera_di_un_libertino",
+        "link_youtube": "https://www.youtube.com/watch?v=WFmLhtG0P_Y&list=RDWFmLhtG0P_Y&start_radio=1"
+      },
+      {
+        "titolo": "Agon (1957)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Agon_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=7TPS6TLKoBk&list=RD7TPS6TLKoBk&start_radio=1"
+      },
+      {
+        "titolo": "Requiem Canticles (1966)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Requiem_Canticles",
+        "link_youtube": "https://www.youtube.com/watch?v=mApPmE2Kvec&list=RDmApPmE2Kvec&start_radio=1"
       }
     ]
   },
@@ -454,6 +1484,21 @@
         "titolo": "Sinfonia n. 1 in Re maggiore Op.25 ‘Sinfoni Classica’ (1917)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Prokof%27ev)",
         "link_youtube": "https://www.youtube.com/watch?v=uOerZ-ewUcA&list=RDuOerZ-ewUcA&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte n. 3 in Do maggiore, Op. 26 (1921)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._3_(Prokof'ev)",
+        "link_youtube": "https://www.youtube.com/watch?v=q4TyQ97Jcr0&list=RDq4TyQ97Jcr0&start_radio=1"
+      },
+      {
+        "titolo": "Pierino e il lupo, Op. 67 per orchestra e voce narrante (1936)",
+        "link_wiki_comp": "https://it.m-wikipedia.org/wiki/Pierino_e_il_lupo",
+        "link_youtube": "https://www.youtube.com/watch?v=cwXXUwcKWUQ"
+      },
+      {
+        "titolo": "Sinfonia n. 5 in Si bemolle, Op. 100 (1944)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Prokof'ev)",
+        "link_youtube": "https://www.youtube.com/watch?v=AWWxGl1X4v0&list=RDAWWxGl1X4v0&start_radio=1"
       }
     ]
   },
@@ -476,6 +1521,26 @@
         "titolo": "Rapsodia in blu (1924)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rapsodia_in_blu",
         "link_youtube": "https://www.youtube.com/watch?v=0U-IXWaapx4&list=RD0U-IXWaapx4&start_radio=1"
+      },
+      {
+        "titolo": "Concerto in fa (1925)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_in_fa",
+        "link_youtube": "https://www.youtube.com/watch?v=zQOtDTfjAJU&list=RDzQOtDTfjAJU&start_radio=1"
+      },
+      {
+        "titolo": "Un americano a Parigi (1928)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Un_americano_a_Parigi",
+        "link_youtube": "https://www.youtube.com/watch?v=Ux1ISCnh4JQ&list=RDUx1ISCnh4JQ&start_radio=1"
+      },
+      {
+        "titolo": "Cuban Overture (1932)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Cuban_Overture",
+        "link_youtube": "https://www.youtube.com/watch?v=DGINA91JODY&list=RDDGINA91JODY&start_radio=1"
+      },
+      {
+        "titolo": "Porgy and Bess (1935)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Porgy_and_Bess",
+        "link_youtube": "https://www.youtube.com/watch?v=X7Fcznktn1E&list=RDX7Fcznktn1E&start_radio=1"
       }
     ]
   },
@@ -484,9 +1549,70 @@
     "link_wiki": "https://it.m.wikipedia.org/wiki/Dmitrij_Dmitrievi%C4%8D_%C5%A0ostakovi%C4%8D",
     "composizioni": [
       {
+        "titolo": "Sinfonia n. 5 in re minore, Op. 47 (1937)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=cg0M4LzEITQ&list=RDcg0M4LzEITQ&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 7 in do maggiore ‘Leningrado’, Op. 60 (1941)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=GB3zR_X25UU&list=RDGB3zR_X25UU&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violino n. 1 in la minore, Op. 77 (1948)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_n._1_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=SXDk1CoIRuY&list=RDSXDk1CoIRuY&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 10 in mi minore, Op. 93 (1953)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._10_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=UpPip-YjzVc&list=RDUpPip-YjzVc&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 2, Op. 102 (1957)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._2_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=HLlxUFlv1mo&list=RDHLlxUFlv1mo&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violoncello e orchestra n. 1 in mi bemolle minore, Op. 107 (1959)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violoncello_e_orchestra_n._1_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=bjEfjLqynUY&list=RDbjEfjLqynUY&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 13 in si bemolle minore Op. 113 ‘Babij Jar’ (1962)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._13_(%C5%A0ostakovi%C4%8D)",
         "link_youtube": "https://www.youtube.com/watch?v=_VHrV0f8WyE"
+      }
+    ]
+  },
+  {
+    "compositore": "Leonard Bernstein (1918-1990)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Leonard_Bernstein",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia n. 1 ‘Jeremiah’ (1942)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Bernstein)",
+        "link_youtube": "https://www.youtube.com/watch?v=YGKCoZ-4DFM&list=RDYGKCoZ-4DFM&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 2 ‘The Age of Anxiety’ (1949)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Bernstein)",
+        "link_youtube": "https://www.youtube.com/watch?v=0uQq0rKiMJw&list=RD0uQq0rKiMJw&start_radio=1"
+      },
+      {
+        "titolo": "Symphonic Dances from West Side Story (1956)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/West_Side_Story",
+        "link_youtube": "https://www.youtube.com/watch?v=-HLDqBUxcD4&list=RD-HLDqBUxcD4&start_radio=1"
+      },
+      {
+        "titolo": "Candide – Ouverture (1956)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Candide_(Bernstein)",
+        "link_youtube": "https://www.youtube.com/watch?v=AC2gqgiisl4&list=RDAC2gqgiisl4&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 3 \"Kaddish\" (1963)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Bernstein)",
+        "link_youtube": "https://www.youtube.com/watch?v=4qhjDlr-2w4&list=RD4qhjDlr-2w4&start_radio=1"
       }
     ]
   }
