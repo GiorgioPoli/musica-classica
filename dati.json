@@ -188,6 +188,11 @@
         "link_youtube": "https://www.youtube.com/watch?v=6rD32fnEvyA&list=RD6rD32fnEvyA&start_radio=1"
       },
       {
+        "titolo": "Sinfonia N. 88 in sol maggiore (1787)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._88_(Haydn)",
+        "link_youtube": "https://www.youtube.com/watch?v=bXEldU1UC70&list=RDbXEldU1UC70&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 94 in Sol maggiore “della sorpresa” (1791)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._94_(Haydn)",
         "link_youtube": "https://www.youtube.com/watch?v=Pb4nRgwQ5Jk&list=RDPb4nRgwQ5Jk&start_radio=1"
@@ -212,6 +217,16 @@
         "titolo": "Divertimento n. 1 in Re maggiore K 136 (1772)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Divertimento_n._1_(Mozart)",
         "link_youtube": "https://www.youtube.com/watch?v=qVKpF8KNoOA&list=RDqVKpF8KNoOA&start_radio=1"
+      },
+      {
+        "titolo": "Exsultate, jubilate (1773)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Exsultate,_jubilate",
+        "link_youtube": "https://www.youtube.com/watch?v=6qBPadJMRcE"
+      },
+      {
+        "titolo": "Serenata in Sol maggiore K 525 (1787)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Eine_kleine_Nachtmusik",
+        "link_youtube": "https://www.youtube.com/watch?v=rHZ0nkZatJk&list=RDrHZ0nkZatJk&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 31 in Re maggiore K 297 “sinfonia Parigi” (1778)",
@@ -443,6 +458,17 @@
     ]
   },
   {
+    "compositore": "Carl Maria von Weber (1786-1826)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Carl_Maria_von_Weber",
+    "composizioni": [
+      {
+        "titolo": "Il franco cacciatore (1821)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_franco_cacciatore",
+        "link_youtube": "https://www.youtube.com/watch?v=V9iaX9wWni4&list=RDV9iaX9wWni4&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Gioachino Rossini (1792-1868)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Gioachino_Rossini",
     "composizioni": [
@@ -551,9 +577,19 @@
         "link_youtube": "https://www.youtube.com/watch?v=ZJQqEFp6Oqs&list=RDZJQqEFp6Oqs&start_radio=1"
       },
       {
+        "titolo": "Benvenuto Cellini, op. 23 (1838)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Benvenuto_Cellini_(opera)",
+        "link_youtube": "https://www.youtube.com/watch?v=4K-RXVeTY0A"
+      },
+      {
         "titolo": "Roméo et Juliette op.17 (1839)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette",
         "link_youtube": "https://www.youtube.com/watch?v=zf7kGcB4VSQ&list=RDzf7kGcB4VSQ&start_radio=1"
+      },
+      {
+        "titolo": "Le Corsaire op. 21 (1851)",
+        "link_wiki_comp": "https://fr.m.wikipedia.org/wiki/Le_Corsaire_(Berlioz)",
+        "link_youtube": "https://www.youtube.com/watch?v=d7kez0F0UJ4&list=RDd7kez0F0UJ4&start_radio=1"
       }
     ]
   },
@@ -565,6 +601,17 @@
         "titolo": "Marcia di Radetzky (1848)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Marcia_di_Radetzky",
         "link_youtube": "https://www.youtube.com/watch?v=xhEGMSOIptw&list=RDxhEGMSOIptw&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Mikhail Glinka (1804-1857)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Michail_Ivanovič_Glinka",
+    "composizioni": [
+      {
+        "titolo": "Ruslan e Ljudmila (1842)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ruslan_e_Ljudmila_(opera)",
+        "link_youtube": "https://www.youtube.com/watch?v=QW3IwWFkpfc&list=RDQW3IwWFkpfc&start_radio=1"
       }
     ]
   },
@@ -581,6 +628,11 @@
         "titolo": "Sinfonia n. 5 in re minore, Op. 107 ‘Riforma’ (1830)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Mendelssohn)",
         "link_youtube": "https://www.youtube.com/watch?v=Yznb4uKr-0E&list=RDYznb4uKr-0E&start_radio=1"
+      },
+      {
+        "titolo": "Ouverture in Si minore Le Ebridi, op. 26 (1830)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_Ebridi",
+        "link_youtube": "https://www.youtube.com/watch?v=MdQyN7MYSN8&list=RDMdQyN7MYSN8&start_radio=1"
       },
       {
         "titolo": "Sinfonia n. 3 in la minore, op. 56  ‘Scozzese’ (1842)",
@@ -609,6 +661,11 @@
         "link_youtube": "https://www.youtube.com/watch?v=3jbHbDena_U&t=1794s"
       },
       {
+        "titolo": "Sinfonia n. 2 in Do maggiore, op. 61 (1846)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Schumann)",
+        "link_youtube": "https://www.youtube.com/watch?v=YD-dluM2gJQ&list=RDYD-dluM2gJQ&start_radio=1"
+      },
+      {
         "titolo": "Sinfonia n. 3 in Mib Maggiore Op. 97 ‘Renana’ (1850)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Schumann)",
         "link_youtube": "https://www.youtube.com/watch?v=i5Y2wBGbiIA&list=RDi5Y2wBGbiIA&start_radio=1"
@@ -624,6 +681,11 @@
     "compositore": "Frédéric Chopin (1810-1849)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Fryderyk_Chopin",
     "composizioni": [
+      {
+        "titolo": "Concerto per pianoforte e orchestra n. 1 in Mi minore, op. 11 (1830)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._1_(Chopin)",
+        "link_youtube": "https://www.youtube.com/watch?v=2bFo65szAP0&list=RD2bFo65szAP0&start_radio=1&t=1503s"
+      },
       {
         "titolo": "Gran Valzer brillante in Mi bemolle maggiore op. 18 (1831)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Gran_Valzer_brillante",
@@ -696,6 +758,22 @@
         "titolo": "L'Olandese Volante (1841)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L%27Olandese_Volante_(opera)",
         "link_youtube": "https://www.youtube.com/watch?v=ctl5CLkelMg&list=RDctl5CLkelMg&start_radio=1"
+      },
+      {
+        "titolo": "L’Anello del Nibelungo (1848-1974)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/L'anello_del_Nibelungo",
+        "link_youtube": "https://www.youtube.com/watch?v=1PBhlPeTJ_g&list=RD1PBhlPeTJ_g&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "César Franck (1822-1890)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/César_Franck",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia in Re minore (1888)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_in_Re_minore_(Franck)",
+        "link_youtube": "https://www.youtube.com/watch?v=ya3iNTS09aU&list=RDya3iNTS09aU&start_radio=1"
       }
     ]
   },
@@ -732,6 +810,11 @@
         "titolo": "Sinfonia n. 9 in Re minore (1887)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Bruckner)",
         "link_youtube": "https://www.youtube.com/watch?v=swULVZ5zLkM&list=RDswULVZ5zLkM&start_radio=1"
+      },
+      {
+        "titolo": "Psalm 150 (1892)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Psalm_150_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=flOCUNt6QGM&list=RDflOCUNt6QGM&start_radio=1"
       }
     ]
   },
@@ -754,6 +837,17 @@
         "titolo": "Sul bel Danubio blu (1866)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sul_bel_Danubio_blu",
         "link_youtube": "https://www.youtube.com/watch?v=fHzhDKwYP2s&list=RDfHzhDKwYP2s&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Aleksandr Porfir'evič Borodin (1833-1887)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Aleksandr_Porfir'evič_Borodin",
+    "composizioni": [
+      {
+        "titolo": "Il principe Igor' (1887)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_principe_Igor'",
+        "link_youtube": "https://www.youtube.com/watch?v=kqKclPhsK0o&list=RDkqKclPhsK0o&start_radio=1"
       }
     ]
   },
@@ -841,6 +935,17 @@
         "titolo": "Sinfonia n. 3 in do minore, op. 78 ‘Organo’ (1886)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Saint-Sa%C3%ABns)",
         "link_youtube": "https://www.youtube.com/watch?v=Bi5CPm96rCE&list=RDBi5CPm96rCE&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Milij Alekseevič Balakirev (1837-1910)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Milij_Alekseevič_Balakirev",
+    "composizioni": [
+      {
+        "titolo": "Islamej - fantasia orientale, op. 18 (1869)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Islamej",
+        "link_youtube": "https://www.youtube.com/watch?v=fMOcWXtGdn8&list=RDfMOcWXtGdn8&start_radio=1"
       }
     ]
   },
@@ -1026,6 +1131,38 @@
     ]
   },
   {
+    "compositore": "Leoš Janáček (1854-1928)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Leoš_Janáček",
+    "composizioni": [
+      {
+        "titolo": "Taras Bulba (1918)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Taras_Bulba_(Janáček)",
+        "link_youtube": "https://www.youtube.com/watch?v=D3zsZ2XG-1w&list=RDD3zsZ2XG-1w&start_radio=1"
+      },
+      {
+        "titolo": "Concertino for piano (1925)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Concertino_(Janáček)",
+        "link_youtube": "https://www.youtube.com/watch?v=E0FDNDI4Bmk&list=RDE0FDNDI4Bmk&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonietta (1926)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonietta_(Janáček)",
+        "link_youtube": "https://www.youtube.com/watch?v=uImIRf_IM3o&list=RDuImIRf_IM3o&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Edward Elgar (1857-1934)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Edward_Elgar",
+    "composizioni": [
+      {
+        "titolo": "Variazioni su un tema originale ‘Enigma’, op. 36 (1899)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Variazioni_Enigma",
+        "link_youtube": "https://www.youtube.com/watch?v=RTa8fY1z3aA&list=RDRTa8fY1z3aA&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Gustav Mahler (1860-1911)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Gustav_Mahler",
     "composizioni": [
@@ -1082,6 +1219,22 @@
     ]
   },
   {
+    "compositore": "Frederick Delius (1862-1934)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Frederick_Delius",
+    "composizioni": [
+      {
+        "titolo": "Summer Night on the River (1911)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Summer_Night_on_the_River",
+        "link_youtube": "https://www.youtube.com/watch?v=EeTXrkr17aQ&list=RDEeTXrkr17aQ&start_radio=1"
+      },
+      {
+        "titolo": "On Hearing the First Cuckoo in Spring (1912)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/On_Hearing_the_First_Cuckoo_in_Spring",
+        "link_youtube": "https://www.youtube.com/watch?v=oOerbyFQNtY"
+      }
+    ]
+  },
+  {
     "compositore": "Claude Debussy (1862-1918)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Claude_Debussy",
     "composizioni": [
@@ -1122,6 +1275,11 @@
         "link_youtube": "https://www.youtube.com/watch?v=BBPZR33LJBk&list=RDBBPZR33LJBk&start_radio=1"
       },
       {
+        "titolo": "Tod und Verklärung), Op. 24 (1889)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Morte_e_Trasfigurazione",
+        "link_youtube": "https://www.youtube.com/watch?v=2AgXJXATkUw&list=RD2AgXJXATkUw&start_radio=1"
+      },
+      {
         "titolo": "I tiri burloni di Till Eulenspiegel, Op. 28 (1895)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/I_tiri_burloni_di_Till_Eulenspiegel",
         "link_youtube": "https://www.youtube.com/watch?v=SS7dy3c8gZM&list=RDSS7dy3c8gZM&start_radio=1"
@@ -1140,6 +1298,11 @@
         "titolo": "Sinfonia delle alpi, op. 64 (1915)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Una_sinfonia_alpina",
         "link_youtube": "https://www.youtube.com/watch?v=Q3RR0KJSlAE&list=RDQ3RR0KJSlAE&start_radio=1"
+      },
+      {
+        "titolo": "Capriccio, Op. 85 (1942)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Capriccio_(Strauss)",
+        "link_youtube": "https://www.youtube.com/watch?v=nnDcVSDnSU4"
       },
       {
         "titolo": "Concerto per oboe e piccola orchestra, in re maggiore (1946)",
@@ -1211,6 +1374,60 @@
     ]
   },
   {
+    "compositore": "Ferruccio Busoni (1866-1924)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Ferruccio_Busoni",
+    "composizioni": [
+      {
+        "titolo": "Turandot (1917)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Turandot_(Busoni)",
+        "link_youtube": "https://www.youtube.com/watch?v=V2_oSpM3O9A&list=RDV2_oSpM3O9A&start_radio=1"
+      },
+      {
+        "titolo": "Doktor Faust (1924)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Doktor_Faust_(opera)",
+        "link_youtube": "https://www.youtube.com/watch?v=xof1AotWbLI&list=RDxof1AotWbLI&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Hans Pfitzner (1869-1949)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Hans_Pfitzner",
+    "composizioni": [
+      {
+        "titolo": "Palestrina (1915)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Palestrina_(opera)",
+        "link_youtube": "https://www.youtube.com/watch?v=huQo3SA6SvU&list=RDhuQo3SA6SvU&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Aleksandr Nikolaevič Skrjabin (1872-1915)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Aleksandr_Nikolaevič_Skrjabin",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia n. 4 ‘Le Poème de l'extase’, Op. 54 (1908)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Le_Poème_de_l'extase",
+        "link_youtube": "https://www.youtube.com/watch?v=Ni87KKnYKHU&list=RDNi87KKnYKHU&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Ralph Vaughan Williams (1872-1958)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Ralph_Vaughan_Williams",
+    "composizioni": [
+      {
+        "titolo": "The Lark Ascending (1920)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/The_Lark_Ascending",
+        "link_youtube": "https://www.youtube.com/watch?v=IOWN5fQnzGk&list=RDIOWN5fQnzGk&start_radio=1"
+      },
+      {
+        "titolo": "Fantasia on \"Greensleeves\" (1934)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Greensleeves",
+        "link_youtube": "https://www.youtube.com/watch?v=oPf3dLfjUI8&list=RDoPf3dLfjUI8&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Sergej Vasil'evič Rachmaninov (1873-1943)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Sergej_Vasil'evi%C4%8D_Rachmaninov",
     "composizioni": [
@@ -1258,6 +1475,17 @@
         "titolo": "Danze Sinfoniche, Op. 45 (1940)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Danze_sinfoniche_(Rachmaninov)",
         "link_youtube": "https://www.youtube.com/watch?v=uq3PK-v6dyE&list=RDuq3PK-v6dyE&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Gustav Holst (1874-1934)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Gustav_Holst",
+    "composizioni": [
+      {
+        "titolo": "I pianeti, op. 32 (1916)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/I_pianeti",
+        "link_youtube": "https://www.youtube.com/watch?v=HP5xhyPn58U&list=RDHP5xhyPn58U&start_radio=1"
       }
     ]
   },
@@ -1313,6 +1541,32 @@
     ]
   },
   {
+    "compositore": "Charles Ives (1874-1954)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Charles_Ives",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia n. 2 (1902)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Ives)",
+        "link_youtube": "https://www.youtube.com/watch?v=2-zgqNR1Des&list=RD2-zgqNR1Des&start_radio=1"
+      },
+      {
+        "titolo": "Central Park in the Dark (1906)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Central_Park_in_the_Dark",
+        "link_youtube": "https://www.youtube.com/watch?v=S74KClppwD0&list=RDS74KClppwD0&start_radio=1"
+      },
+      {
+        "titolo": "Three Places in New England (1914)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Three_Places_in_New_England",
+        "link_youtube": "https://www.youtube.com/watch?v=7gb17P5a9lk&list=RD7gb17P5a9lk&start_radio=1"
+      },
+      {
+        "titolo": "Piano Sonata No. 2 (1919)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Charles_Ives",
+        "link_youtube": "https://www.youtube.com/watch?v=cgMSSktwnEg&list=RDcgMSSktwnEg&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Maurice Ravel (1875-1937)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Maurice_Ravel",
     "composizioni": [
@@ -1355,6 +1609,27 @@
         "titolo": "Concerto per pianoforte in sol maggiore (1931)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_in_sol_maggiore_(Ravel)",
         "link_youtube": "https://www.youtube.com/watch?v=aTV-NCaD9pU"
+      }
+    ]
+  },
+  {
+    "compositore": "Manuel de Falla (1876-1946)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Manuel_de_Falla",
+    "composizioni": [
+      {
+        "titolo": "El amor brujo (1914)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/El_amor_brujo_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=iQwk_pOxsbs&list=RDiQwk_pOxsbs&start_radio=1"
+      },
+      {
+        "titolo": "Noches en los jardines de Espana (1915)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Noches_en_los_jardines_de_Espana",
+        "link_youtube": "https://www.youtube.com/watch?v=UyoEiRPmq6M&list=RDUyoEiRPmq6M&start_radio=1"
+      },
+      {
+        "titolo": "Il cappello a tre punte (1919)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_cappello_a_tre_punte_(balletto)",
+        "link_youtube": "https://www.youtube.com/watch?v=Al68zeQQHlg&list=RDAl68zeQQHlg&start_radio=1"
       }
     ]
   },
@@ -1440,6 +1715,16 @@
         "link_youtube": "https://www.youtube.com/watch?v=aAQSQYdMeRQ&list=RDaAQSQYdMeRQ&start_radio=1"
       },
       {
+        "titolo": "Ragtime (1918)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ragtime_(Stravinskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=QLwqVJ-owtg&list=RDQLwqVJ-owtg&start_radio=1"
+      },
+      {
+        "titolo": "Piano-Rag-Music (1919)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Piano-Rag-Music",
+        "link_youtube": "https://www.youtube.com/watch?v=0sKKEc9nlgM&list=RD0sKKEc9nlgM&start_radio=1"
+      },
+      {
         "titolo": "Pulcinella (1920)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pulcinella_(balletto)",
         "link_youtube": "https://www.youtube.com/watch?v=yCfjFuQr1Ng&list=RDyCfjFuQr1Ng&start_radio=1"
@@ -1450,9 +1735,24 @@
         "link_youtube": "https://www.youtube.com/watch?v=9pddkdaAmw0&list=RD9pddkdaAmw0&start_radio=1"
       },
       {
+        "titolo": "Apollon musagète (1928)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Apollon_musagète",
+        "link_youtube": "https://www.youtube.com/watch?v=xfn8ieMI6V4"
+      },
+      {
         "titolo": "Sinfonia di Salmi, sinfonia corale (1930)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_di_Salmi",
         "link_youtube": "https://www.youtube.com/watch?v=DOEr5Qbdgmo&list=RDDOEr5Qbdgmo&start_radio=1"
+      },
+      {
+        "titolo": "Circus Polka: For a Young Elephant (1942)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Circus_Polka",
+        "link_youtube": "https://www.youtube.com/watch?v=XcKr90CRaqA&list=RDXcKr90CRaqA&start_radio=1"
+      },
+      {
+        "titolo": "Ebony Concerto (1945)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ebony_Concerto",
+        "link_youtube": "https://www.youtube.com/watch?v=ToYUCuUE9pk&list=RDToYUCuUE9pk&start_radio=1"
       },
       {
         "titolo": "Messa (1948)",
@@ -1477,11 +1777,53 @@
     ]
   },
   {
+    "compositore": "Anton Webern (1883-1945)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Anton_Webern",
+    "composizioni": [
+      {
+        "titolo": "Sei pezzi per grande orchestra, op. 6 (1909)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sei_pezzi_per_orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=nF82BS3R6Lk&list=RDnF82BS3R6Lk&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia per orchestra da camera, op. 21 (1928)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_(Webern)",
+        "link_youtube": "https://www.youtube.com/watch?v=xsGmlRTpub4&list=RDxsGmlRTpub4&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Alban Berg (1885-1935)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Alban_Berg",
+    "composizioni": [
+      {
+        "titolo": "Three Pieces for Orchestra, Op. 6 (1915)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Three_Pieces_for_Orchestra_(Berg)",
+        "link_youtube": "https://www.youtube.com/watch?v=ROcFQGmG1cI&list=RDROcFQGmG1cI&start_radio=1"
+      },
+      {
+        "titolo": "Suite lirica (1926)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Suite_lirica",
+        "link_youtube": "https://www.youtube.com/watch?v=ytOJGeZRATE&list=RDytOJGeZRATE&start_radio=1"
+      },
+      {
+        "titolo": "Concerto per violino e orchestra (1935)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_(Berg)",
+        "link_youtube": "https://www.youtube.com/watch?v=8-srlUzphpE&list=RD8-srlUzphpE&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Sergej Sergeevič Prokof'ev (1891-1953)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Sergej_Sergeevi%C4%8D_Prokof%27ev",
     "composizioni": [
       {
-        "titolo": "Sinfonia n. 1 in Re maggiore Op.25 ‘Sinfoni Classica’ (1917)",
+        "titolo": "Concerto per violino n. 1 in Re maggiore (1917)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_violino_e_orchestra_n._1_(Prokof'ev)",
+        "link_youtube": "https://www.youtube.com/watch?v=I8aN6lPxogA&list=RDI8aN6lPxogA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia n. 1 in Re maggiore Op.25 ‘Sinfonia Classica’ (1917)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Prokof%27ev)",
         "link_youtube": "https://www.youtube.com/watch?v=uOerZ-ewUcA&list=RDuOerZ-ewUcA&start_radio=1"
       },
@@ -1489,6 +1831,11 @@
         "titolo": "Concerto per pianoforte n. 3 in Do maggiore, Op. 26 (1921)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_per_pianoforte_e_orchestra_n._3_(Prokof'ev)",
         "link_youtube": "https://www.youtube.com/watch?v=q4TyQ97Jcr0&list=RDq4TyQ97Jcr0&start_radio=1"
+      },
+      {
+        "titolo": "Il tenente Kiže, Symphonic Suite, Op. 60 (1933)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Il_tenente_Kiže_(Prokof'ev)",
+        "link_youtube": "https://www.youtube.com/watch?v=YbaY7p5ahZo"
       },
       {
         "titolo": "Pierino e il lupo, Op. 67 per orchestra e voce narrante (1936)",
@@ -1510,6 +1857,27 @@
         "titolo": "Carmina Burana (1936)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carmina_Burana_(Orff)",
         "link_youtube": "https://www.youtube.com/watch?v=Yb6jULNu5ik&list=RDYb6jULNu5ik&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Paul Hindemith (1895-1963)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Paul_Hindemith",
+    "composizioni": [
+      {
+        "titolo": "Suite 1922 (1922)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Suite_1922",
+        "link_youtube": "https://www.youtube.com/watch?v=kfMznbSy0kA&list=RDkfMznbSy0kA&start_radio=1"
+      },
+      {
+        "titolo": "Sinfonia Mathis der Maler (1934)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Mathis_der_Maler_(sinfonia)",
+        "link_youtube": "https://www.youtube.com/watch?v=z0hPMKRDzvw&list=RDz0hPMKRDzvw&start_radio=1"
+      },
+      {
+        "titolo": "Symphonic Metamorphosis of Themes by Carl Maria von Weber (1943)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Symphonic_Metamorphosis_of_Themes_by_Carl_Maria_von_Weber",
+        "link_youtube": "https://www.youtube.com/watch?v=vrJBzUsI7Iw&list=RDvrJBzUsI7Iw&start_radio=1"
       }
     ]
   },
@@ -1545,9 +1913,69 @@
     ]
   },
   {
+    "compositore": "Francis Poulenc (1899-1963)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Francis_Poulenc",
+    "composizioni": [
+      {
+        "titolo": "Les biches (1923)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Les_biches_(Poulenc)",
+        "link_youtube": "https://www.youtube.com/watch?v=lESqnwqcH80&list=RDlESqnwqcH80&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Kurt Weill (1900-1950)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Kurt_Weill",
+    "composizioni": [
+      {
+        "titolo": "Kleine Dreigroschenmusik (1929)",
+        "link_wiki_comp": "https://en.wikipedia.org/wiki/The_Threepenny_Opera",
+        "link_youtube": "https://www.youtube.com/watch?v=zMNnoZ-vVv0&list=RDzMNnoZ-vVv0&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "George Antheil (1900-1959)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/George_Antheil",
+    "composizioni": [
+      {
+        "titolo": "Jazz Symphony (1925)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/A_Jazz_Symphony",
+        "link_youtube": "https://www.youtube.com/watch?v=Mmw5GtFLS-M&list=RDMmw5GtFLS-M&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Aaron Copland (1900-1990)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Aaron_Copland",
+    "composizioni": [
+      {
+        "titolo": "Appalachian Spring (1944)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Appalachian_Spring",
+        "link_youtube": "https://www.youtube.com/watch?v=KfdwgXSdcMw&list=RDKfdwgXSdcMw&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Joaquín Rodrigo (1901-1999)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Joaquín_Rodrigo",
+    "composizioni": [
+      {
+        "titolo": "Concerto d'Aranjuez (1939)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_d'Aranjuez",
+        "link_youtube": "https://www.youtube.com/watch?v=-oxH-7VklBI&list=RD-oxH-7VklBI&start_radio=1"
+      }
+    ]
+  },
+  {
     "compositore": "Dmítrij Dmítrievič Šostakóvič (1906-1975)",
     "link_wiki": "https://it.m.wikipedia.org/wiki/Dmitrij_Dmitrievi%C4%8D_%C5%A0ostakovi%C4%8D",
     "composizioni": [
+      {
+        "titolo": "Tahiti Trot - Tea for Two (1927)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Tahiti_Trot_-_Tea_for_Two_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=YrWriL-hDNM&list=RDYrWriL-hDNM&start_radio=1"
+      },
       {
         "titolo": "Sinfonia n. 5 in re minore, Op. 47 (1937)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Šostakovič)",
@@ -1582,6 +2010,82 @@
         "titolo": "Sinfonia n. 13 in si bemolle minore Op. 113 ‘Babij Jar’ (1962)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._13_(%C5%A0ostakovi%C4%8D)",
         "link_youtube": "https://www.youtube.com/watch?v=_VHrV0f8WyE"
+      },
+      {
+        "titolo": "Cello Concerto No. 2, Op. 126 (1966)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Cello_Concerto_No._2_(Shostakovich)",
+        "link_youtube": "https://www.youtube.com/watch?v=bMaKRfnfDeA&list=RDbMaKRfnfDeA&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Olivier Messiaen (1908-1992)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Olivier_Messiaen",
+    "composizioni": [
+      {
+        "titolo": "Sinfonia Turangalîla (1948)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_Turangalîla",
+        "link_youtube": "https://www.youtube.com/watch?v=xOnZ1-sOCwo&list=RDxOnZ1-sOCwo&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Samuel Barber (1910-1981)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Samuel_Barber",
+    "composizioni": [
+      {
+        "titolo": "Adagio for Strings (1936)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Adagio_for_Strings",
+        "link_youtube": "https://www.youtube.com/watch?v=WAoLJ8GbA4Y&list=RDWAoLJ8GbA4Y&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Bernard Herrmann (1911-1975) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Bernard_Herrmann",
+    "composizioni": [
+      {
+        "titolo": "Top 10 Original Movie Scores",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Bernard_Herrmann",
+        "link_youtube": "https://www.youtube.com/watch?v=CWv9V7tFJyc&list=RDCWv9V7tFJyc&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Nino Rota (1911-1979) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Nino_Rota",
+    "composizioni": [
+      {
+        "titolo": "Best themes",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Nino_Rota",
+        "link_youtube": "https://www.youtube.com/watch?v=yACcCzR5fzY&list=RDyACcCzR5fzY&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Benjamin Britten (1913-1976)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Benjamin_Britten",
+    "composizioni": [
+      {
+        "titolo": "Serenata per tenore, corno e archi, Op. 31 (1943)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Serenata_per_tenore,_corno_e_archi",
+        "link_youtube": "https://www.youtube.com/watch?v=GL_fgz3A0tM&list=RDGL_fgz3A0tM&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Witold Lutosławski (1913-1994)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Witold_Lutosławski",
+    "composizioni": [
+      {
+        "titolo": "Novelette (1979)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Novelette_(Lutosławski)",
+        "link_youtube": "https://www.youtube.com/watch?v=GhRUPLAm594&list=RDGhRUPLAm594&start_radio=1"
+      },
+      {
+        "titolo": "Chain III, for orchestra (1986)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/List_of_compositions_by_Witold_Lutosławski",
+        "link_youtube": "https://www.youtube.com/watch?v=EmLDd_hdycU&list=RDEmLDd_hdycU&start_radio=1"
       }
     ]
   },
@@ -1613,6 +2117,630 @@
         "titolo": "Sinfonia n. 3 \"Kaddish\" (1963)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Bernstein)",
         "link_youtube": "https://www.youtube.com/watch?v=4qhjDlr-2w4&list=RD4qhjDlr-2w4&start_radio=1"
+      },
+      {
+        "titolo": "Mass: A Theatre Piece for Singers, Players, and Dancers (1971)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Messa_(Bernstein)",
+        "link_youtube": "https://www.youtube.com/watch?v=oAsSSXq-VKY&list=PLGTgeE27qGnkTr6UM9GpEPG99KVMY5lT6"
+      }
+    ]
+  },
+  {
+    "compositore": "György Ligeti (1923-2006)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/György_Ligeti",
+    "composizioni": [
+      {
+        "titolo": "Atmosphères (1961)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Atmosphères",
+        "link_youtube": "https://www.youtube.com/watch?v=RCNzwdLwA8g&list=RDRCNzwdLwA8g&start_radio=1"
+      },
+      {
+        "titolo": "Requiem (1965)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Requiem_(Ligeti)",
+        "link_youtube": "https://www.youtube.com/watch?v=wqrJmxy4q3A&list=RDwqrJmxy4q3A&start_radio=1"
+      },
+      {
+        "titolo": "Lux Aeterna (1966)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Lux_Aeterna_(Ligeti)",
+        "link_youtube": "https://www.youtube.com/watch?v=GwlksfO729I&list=RDGwlksfO729I&start_radio=1"
+      },
+      {
+        "titolo": "Chamber Concerto (1970)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/György_Ligeti",
+        "link_youtube": "https://www.youtube.com/watch?v=hvF4xWIRO-U&list=RDhvF4xWIRO-U&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Pierre Boulez (1925-2016)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Pierre_Boulez",
+    "composizioni": [
+      {
+        "titolo": "Le Marteau sans maître (1955)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Le_Marteau_sans_maître",
+        "link_youtube": "https://www.youtube.com/watch?v=AwxB4lFMy3U&list=RDAwxB4lFMy3U&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Karlheinz Stockhausen (1928-2007)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Karlheinz_Stockhausen",
+    "composizioni": [
+      {
+        "titolo": "Gruppen (1957)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Karlheinz_Stockhausen",
+        "link_youtube": "https://www.youtube.com/watch?v=qgON4d6a8X4&list=RDqgON4d6a8X4&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Ennio Morricone (1928-2020) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Ennio_Morricone",
+    "composizioni": [
+      {
+        "titolo": "Concert in Venice 2007",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Ennio_Morricone",
+        "link_youtube": "https://www.youtube.com/watch?v=deTwzw7wnLs&list=RDdeTwzw7wnLs&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Jerry Goldsmith (1929-2004) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Jerry_Goldsmith",
+    "composizioni": [
+      {
+        "titolo": "80th Birthday Celebration Concert",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Jerry_Goldsmith",
+        "link_youtube": "https://www.youtube.com/watch?v=OU_HYAy5CCI&list=RDOU_HYAy5CCI&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "John Williams (1932) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/John_Williams",
+    "composizioni": [
+      {
+        "titolo": "Live in Vienna",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/John_Williams",
+        "link_youtube": "https://www.youtube.com/watch?v=LixG82u6fe4&list=RDLixG82u6fe4&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Henryk Górecki (1933-2010)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Henryk_Górecki",
+    "composizioni": [
+      {
+        "titolo": "Symphony No. 3, Op. 36 (1976)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Symphony_No._3_(Górecki)",
+        "link_youtube": "https://www.youtube.com/watch?v=ZTmspJxshEg&list=RDZTmspJxshEg&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Al'fred Garrievič Šnitke (1934-1998)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Al'fred_Garrievič_Šnitke",
+    "composizioni": [
+      {
+        "titolo": "Concerto grosso n. 1 (1977)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Concerto_grosso_n._1_(Šnitke)",
+        "link_youtube": "https://www.youtube.com/watch?v=tc4KKR1boxU&list=RDtc4KKR1boxU&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Steve Reich (1936)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Steve_Reich",
+    "composizioni": [
+      {
+        "titolo": "Six Pianos (1973)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Six_Pianos",
+        "link_youtube": "https://www.youtube.com/watch?v=1bVN4BeXJVI&list=RD1bVN4BeXJVI&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Philip Glass (1937)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Philip_Glass",
+    "composizioni": [
+      {
+        "titolo": "Violin Concerto No. 1 (1987)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Violin_Concerto_No._1_(Glass)",
+        "link_youtube": "https://www.youtube.com/watch?v=5lGNtPXcA04&list=RD5lGNtPXcA04&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Howard Shore (1946) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Howard_Shore",
+    "composizioni": [
+      {
+        "titolo": "The Lord of the Rings Symphony",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Howard_Shore",
+        "link_youtube": "https://www.youtube.com/watch?v=w_2QsButcJk&list=RDw_2QsButcJk&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "John Adams (1947)",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/John_Adams_(compositore)",
+    "composizioni": [
+      {
+        "titolo": "Shaker Loops (1978)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Shaker_Loops",
+        "link_youtube": "https://www.youtube.com/watch?v=f4CfmJnn2vY&list=RDf4CfmJnn2vY&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Alan Silvestri (1950) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Alan_Silvestri",
+    "composizioni": [
+      {
+        "titolo": "Top 12 Favorite Alan Silvestri Scores",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Alan_Silvestri",
+        "link_youtube": "https://www.youtube.com/watch?v=gkpvnYr0l3o"
+      }
+    ]
+  },
+  {
+    "compositore": "James Horner (1953-2015) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/James_Horner",
+    "composizioni": [
+      {
+        "titolo": "Hollywood in Vienna 2013",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/James_Horner",
+        "link_youtube": "https://www.youtube.com/watch?v=OXfsJCAvkSg&list=RDOXfsJCAvkSg&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Danny Elfman (1953) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Danny_Elfman",
+    "composizioni": [
+      {
+        "titolo": "Best of Danny Elfman (Suite)",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Danny_Elfman",
+        "link_youtube": "https://www.youtube.com/watch?v=gu5-qTI18xQ&list=RDgu5-qTI18xQ&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "Hans Zimmer (1957) C",
+    "link_wiki": "https://it.m.wikipedia.org/wiki/Hans_Zimmer",
+    "composizioni": [
+      {
+        "titolo": "Hollywood in Vienna 2018",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Hans_Zimmer",
+        "link_youtube": "https://www.youtube.com/watch?v=ne0x0QpVtNE&list=RDne0x0QpVtNE&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "The 20 greatest symphonies",
+    "link_wiki": "https://www.classical-music.com/features/works/20-greatest-symphonies-all-time",
+    "composizioni": [
+      {
+        "titolo": "Introduzione",
+        "link_wiki_comp": "https://www.classical-music.com/features/works/20-greatest-symphonies-all-time",
+        "link_youtube": "https://www.youtube.com/watch?v=JdzYWtpjNw8&t=17s"
+      },
+      {
+        "titolo": "1. Beethoven Symphony No. 3 (1803)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=RkP33esCi5g&list=RDRkP33esCi5g&start_radio=1"
+      },
+      {
+        "titolo": "2. Beethoven Symphony No. 9 (1824)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=4IqnVCc-Yqo&list=RD4IqnVCc-Yqo&start_radio=1"
+      },
+      {
+        "titolo": "3. Mozart Symphony No. 41 'Jupiter' (1788)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._41_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=yZpFrydm6G4&list=RDyZpFrydm6G4&start_radio=1"
+      },
+      {
+        "titolo": "4. Mahler Symphony No. 9 (1909)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._9_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=BN1jACkYS0s&list=RDBN1jACkYS0s&start_radio=1"
+      },
+      {
+        "titolo": "5. Mahler Symphony No. 2 (1894)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=Oi6ZjkXFlcU&list=RDOi6ZjkXFlcU&start_radio=1"
+      },
+      {
+        "titolo": "6. Brahms Symphony No. 4 (1885)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._4_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=_M4ub-Nia2Q&list=RD_M4ub-Nia2Q&start_radio=1"
+      },
+      {
+        "titolo": "7. Berlioz Symphonie Fantastique (1830)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_fantastica",
+        "link_youtube": "https://www.youtube.com/watch?v=sdYRYbjCcJg&list=RDsdYRYbjCcJg&start_radio=1"
+      },
+      {
+        "titolo": "8. Brahms Symphony No. 1 (1876)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._1_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=-B9nERqEmUA&list=RD-B9nERqEmUA&start_radio=1"
+      },
+      {
+        "titolo": "9. Tchaikovsky Symphony No. 6 'Pathétique' (1893)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._6_(Čajkovskij)",
+        "link_youtube": "https://www.youtube.com/watch?v=o147jpVKFCI&list=RDo147jpVKFCI&start_radio=1&t=243s"
+      },
+      {
+        "titolo": "10. Mahler Symphony No. 3 (1896)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Mahler)",
+        "link_youtube": "https://www.youtube.com/watch?v=9Yr720ftjaA&list=RD9Yr720ftjaA&start_radio=1"
+      },
+      {
+        "titolo": "11. Beethoven Symphony No. 5 (1808)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=zWP9fkCuqi8"
+      },
+      {
+        "titolo": "12. Brahms Symphony No. 3 (1883)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=u68ETRjNQME&list=RDu68ETRjNQME&start_radio=1"
+      },
+      {
+        "titolo": "13. Bruckner Symphony No. 8 (1887/1890)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._8_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=PyaX-tuIXgI&list=RDPyaX-tuIXgI&start_radio=1"
+      },
+      {
+        "titolo": "14. Sibelius Symphony No. 7 (1924)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Sibelius)",
+        "link_youtube": "https://www.youtube.com/watch?v=1DQUKpanJOE&list=RD1DQUKpanJOE&start_radio=1"
+      },
+      {
+        "titolo": "15. Mozart Symphony No. 40 (1788)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._40_(Mozart)",
+        "link_youtube": "https://www.youtube.com/watch?v=p8bZ7vm4_6M&list=RDp8bZ7vm4_6M&start_radio=1"
+      },
+      {
+        "titolo": "16. Beethoven Symphony No. 7 (1812)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=EksyIwyVf4k&list=RDEksyIwyVf4k&start_radio=1"
+      },
+      {
+        "titolo": "17. Shostakovich Symphony No. 5 (1937)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._5_(Šostakovič)",
+        "link_youtube": "https://www.youtube.com/watch?v=cg0M4LzEITQ&list=RDcg0M4LzEITQ&start_radio=1"
+      },
+      {
+        "titolo": "18. Brahms Symphony No. 2 (1877)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._2_(Brahms)",
+        "link_youtube": "https://www.youtube.com/watch?v=vx3JVOTcI-0&list=RDvx3JVOTcI-0&start_radio=1"
+      },
+      {
+        "titolo": "19. Beethoven Symphony No. 6 (1808)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._6_(Beethoven)",
+        "link_youtube": "https://www.youtube.com/watch?v=40vp0Veqglg&list=RD40vp0Veqglg&start_radio=1"
+      },
+      {
+        "titolo": "20. Bruckner Symphony No. 7 (1883)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._7_(Bruckner)",
+        "link_youtube": "https://www.youtube.com/watch?v=uaV3eEJB55c&list=RDuaV3eEJB55c&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "The greatest conductor of all time",
+    "link_wiki": "https://www.classical-music.com/features/artists/best-conductor",
+    "composizioni": [
+      {
+        "titolo": "Introduzione",
+        "link_wiki_comp": "https://www.classical-music.com/features/artists/best-conductor",
+        "link_youtube": "https://www.youtube.com/watch?v=q8o3Sta2AOA"
+      },
+      {
+        "titolo": "1. Carlos Kleiber (1930–2004)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carlos_Kleiber",
+        "link_youtube": "https://www.youtube.com/watch?v=UliFpkJyRAM"
+      },
+      {
+        "titolo": "2. Leonard Bernstein (1918–1990)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Leonard_Bernstein",
+        "link_youtube": "https://www.youtube.com/watch?v=422-yb8TXj8"
+      },
+      {
+        "titolo": "3. Claudio Abbado (1933–2014)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Claudio_Abbado",
+        "link_youtube": "https://www.youtube.com/watch?v=1Jw6wpNLM9E&list=RD1Jw6wpNLM9E&start_radio=1&t=16s"
+      },
+      {
+        "titolo": "4. Herbert von Karajan (1908–1989)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Herbert_von_Karajan",
+        "link_youtube": "https://www.youtube.com/watch?v=M-2ed2hY6Ck"
+      },
+      {
+        "titolo": "5. Nikolaus Harnoncourt (1929–2016)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Nikolaus_Harnoncourt",
+        "link_youtube": "https://www.youtube.com/watch?v=38TS7EOGo9A"
+      },
+      {
+        "titolo": "6. Sir Simon Rattle (b. 1955)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Simon_Rattle",
+        "link_youtube": "https://www.youtube.com/watch?v=dP4kXJ92Qh4"
+      },
+      {
+        "titolo": "7. Wilhelm Furtwängler (1886–1954)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Wilhelm_Furtwängler",
+        "link_youtube": "https://www.youtube.com/watch?v=XJnnQY0Pl4c"
+      },
+      {
+        "titolo": "8. Arturo Toscanini (1867–1957)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Arturo_Toscanini",
+        "link_youtube": "https://www.youtube.com/watch?v=gJ3GvutirCQ"
+      },
+      {
+        "titolo": "9. Carlo Maria Giulini (1914-2005)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carlo_Maria_Giulini",
+        "link_youtube": "https://www.youtube.com/watch?v=aVJTQcOMLQw"
+      },
+      {
+        "titolo": "10. Pierre Boulez (1925-2016)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pierre_Boulez",
+        "link_youtube": "https://www.youtube.com/watch?v=yHHUxoa1DDs&list=RDyHHUxoa1DDs&start_radio=1&t=567s"
+      },
+      {
+        "titolo": "11. Rafael Kubelik (1914-1996)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rafael_Kubelík",
+        "link_youtube": "https://www.youtube.com/watch?v=76R0N2GN6Jo&list=RD76R0N2GN6Jo&start_radio=1"
+      },
+      {
+        "titolo": "12. John Eliot Gardiner (b. 1943)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/John_Eliot_Gardiner",
+        "link_youtube": "https://www.youtube.com/watch?v=WVeYL-Qhpec"
+      },
+      {
+        "titolo": "13. John Barbirolli (1899-1970)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/John_Barbirolli",
+        "link_youtube": "https://www.youtube.com/watch?v=d5Zw8G0heH4&list=RDd5Zw8G0heH4&start_radio=1"
+      },
+      {
+        "titolo": "14. Ferenc Fricsay (1914-63)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ferenc_Fricsay",
+        "link_youtube": "https://www.youtube.com/watch?v=bky5FHEKZjk"
+      },
+      {
+        "titolo": "15. George Szell (1897-1970)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/George_Szell",
+        "link_youtube": "https://www.youtube.com/watch?v=YlyUti7BbCY"
+      },
+      {
+        "titolo": "16. Bernard Haitink (1929-2021)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Bernard_Haitink",
+        "link_youtube": "https://www.youtube.com/watch?v=96YRTgqIrec"
+      },
+      {
+        "titolo": "17. Georg Solti (1912-97)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Georg_Solti",
+        "link_youtube": "https://www.youtube.com/watch?v=nkOiKy6sXfM"
+      },
+      {
+        "titolo": "18. Pierre Monteux (1875-1964)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pierre_Monteux",
+        "link_youtube": "https://www.youtube.com/watch?v=hvVkjFRtgVY&t=1s"
+      },
+      {
+        "titolo": "19. Marin Alsop (b. 1956)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Marin_Alsop",
+        "link_youtube": "https://www.youtube.com/watch?v=mFRwTpRL3R4&list=RDmFRwTpRL3R4&start_radio=1"
+      },
+      {
+        "titolo": "20. Yevgeny Mravinsky (1903-88)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Evgenij_Aleksandrovič_Mravinskij",
+        "link_youtube": "https://www.youtube.com/watch?v=2hRAp_7r648&list=RD2hRAp_7r648&start_radio=1"
+      },
+      {
+        "titolo": "21. Eugene Ormandy (1899-1985)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Eugene_Ormandy",
+        "link_youtube": "https://www.youtube.com/watch?v=YtphY-4xjQw&list=RDYtphY-4xjQw&start_radio=1"
+      },
+      {
+        "titolo": "Bruno Walter (1876-1962)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Bruno_Walter",
+        "link_youtube": "https://www.youtube.com/watch?v=rsnMiayZDQg"
+      },
+      {
+        "titolo": "Leopold Stokowski (1882-1977)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Leopold_Stokowski",
+        "link_youtube": "https://www.youtube.com/watch?v=idNJaLp6n0U&list=RDidNJaLp6n0U&start_radio=1"
+      },
+      {
+        "titolo": "Willi Boskovsky (1909-1991)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Willi_Boskovsky",
+        "link_youtube": "https://www.youtube.com/watch?v=QpgPAwDH5-c"
+      },
+      {
+        "titolo": "Zubin Mehta (1936)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Zubin_Mehta",
+        "link_youtube": "https://www.youtube.com/watch?v=w5N4WQOkTX4&list=RDw5N4WQOkTX4&start_radio=1"
+      },
+      {
+        "titolo": "Riccardo Muti (1941)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Riccardo_Muti",
+        "link_youtube": "https://www.youtube.com/watch?v=rOjHhS5MtvA&list=RDrOjHhS5MtvA&start_radio=1&t=169s"
+      },
+      {
+        "titolo": "Daniele Gatti (1961)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Daniele_Gatti",
+        "link_youtube": "https://www.youtube.com/watch?v=UNqY38FFQ04&list=RDUNqY38FFQ04&start_radio=1"
+      },
+      {
+        "titolo": "Gustavo Dudamel (1981)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Gustavo_Dudamel",
+        "link_youtube": "https://www.youtube.com/watch?v=NYvEvP2cmdk&list=RDNYvEvP2cmdk&start_radio=1"
+      }
+    ]
+  },
+  {
+    "compositore": "The world’s greatest orchestras",
+    "link_wiki": "https://www.classical-music.com/articles/worlds-best-orchestras",
+    "composizioni": [
+      {
+        "titolo": "Boston Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Boston_Symphony_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=aV7Voda6Wpg"
+      },
+      {
+        "titolo": "Chicago Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Chicago_Symphony_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=mFSabMQN43U"
+      },
+      {
+        "titolo": "Cleveland Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_di_Cleveland",
+        "link_youtube": "https://www.youtube.com/watch?v=FAuUUIvfkp0&list=RDFAuUUIvfkp0&start_radio=1"
+      },
+      {
+        "titolo": "Los Angeles Philharmonic",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Los_Angeles_Philharmonic_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=wCe_j3tAudM"
+      },
+      {
+        "titolo": "Metropolitan Opera Orchestra",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Metropolitan_Opera",
+        "link_youtube": "https://www.youtube.com/watch?v=xeRwBiu4wfQ"
+      },
+      {
+        "titolo": "New York Philharmonic",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/New_York_Philharmonic",
+        "link_youtube": "https://www.youtube.com/watch?v=cH2PH0auTUU"
+      },
+      {
+        "titolo": "Montreal Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestre_symphonique_de_Montréal",
+        "link_youtube": "https://www.youtube.com/watch?v=dHdlvmmZJus&list=RDdHdlvmmZJus&start_radio=1"
+      },
+      {
+        "titolo": "Philadelphia Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_di_Filadelfia",
+        "link_youtube": "https://www.youtube.com/watch?v=IbzxhZT6akk"
+      },
+      {
+        "titolo": "Pittsburgh Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_Sinfonica_di_Pittsburgh",
+        "link_youtube": "https://www.youtube.com/watch?v=c-AYkko836I"
+      },
+      {
+        "titolo": "Bavarian Radio Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_sinfonica_della_radio_bavarese",
+        "link_youtube": "https://www.youtube.com/watch?v=efEy9WzW5_A"
+      },
+      {
+        "titolo": "Berlin Philharmonic",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Berliner_Philharmoniker",
+        "link_youtube": "https://www.youtube.com/watch?v=wcN9qqafMJQ"
+      },
+      {
+        "titolo": "Budapest Festival Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_Festival_di_Budapest",
+        "link_youtube": "https://www.youtube.com/watch?v=MJnpbhadKcc"
+      },
+      {
+        "titolo": "Chamber Orchestra of Europe",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Chamber_Orchestra_of_Europe",
+        "link_youtube": "https://www.youtube.com/watch?v=aK2DfuJyzIA"
+      },
+      {
+        "titolo": "Czech Philharmonic",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_Filarmonica_Ceca",
+        "link_youtube": "https://www.youtube.com/watch?v=W3Abzxi6ehw"
+      },
+      {
+        "titolo": "Dresden Staatskapelle",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sächsische_Staatskapelle_Dresden",
+        "link_youtube": "https://www.youtube.com/watch?v=xhGmo6qE1dc&list=RDxhGmo6qE1dc&start_radio=1"
+      },
+      {
+        "titolo": "Gewandhausorchester Leipzig",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_del_Gewandhaus_di_Lipsia",
+        "link_youtube": "https://www.youtube.com/watch?v=OfbQLOCCpQE"
+      },
+      {
+        "titolo": "Orchestre de Paris",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestre_de_Paris",
+        "link_youtube": "https://www.youtube.com/watch?v=lLJAJcVwjlc&list=RDlLJAJcVwjlc&start_radio=1"
+      },
+      {
+        "titolo": "Orchestra dell’Accademia Nazionale di Santa Cecilia",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_dell'Accademia_Nazionale_di_Santa_Cecilia",
+        "link_youtube": "https://www.youtube.com/watch?v=vNGWZiEtDys"
+      },
+      {
+        "titolo": "Royal Concertgebouw Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_reale_del_Concertgebouw",
+        "link_youtube": "https://www.youtube.com/watch?v=-4788Tmz9Zo"
+      },
+      {
+        "titolo": "Vienna Philharmonic Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Wiener_Philharmoniker",
+        "link_youtube": "https://www.youtube.com/watch?v=AAxfmbjqrKQ"
+      },
+      {
+        "titolo": "Academy of St Martin in the Fields",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Academy_of_Saint_Martin-in-the-Fields",
+        "link_youtube": "https://www.youtube.com/watch?v=7Gkalm4jE4o&list=RD7Gkalm4jE4o&start_radio=1"
+      },
+      {
+        "titolo": "BBC Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_Sinfonica_della_BBC",
+        "link_youtube": "https://www.youtube.com/watch?v=cXOanvv4plU"
+      },
+      {
+        "titolo": "The Hallé",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/The_Hallé",
+        "link_youtube": "https://www.youtube.com/watch?v=37rpuoFexT8"
+      },
+      {
+        "titolo": "London Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/London_Symphony_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=EkwqPJZe8ms"
+      },
+      {
+        "titolo": "Royal Liverpool Philharmonic Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Royal_Liverpool_Philharmonic",
+        "link_youtube": "https://www.youtube.com/watch?v=tiorwW7B-9Y&list=RDtiorwW7B-9Y&start_radio=1"
+      },
+      {
+        "titolo": "Royal Scottish National Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Royal_Scottish_National_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=IxkE-KpEVz8&list=RDIxkE-KpEVz8&start_radio=1"
+      },
+      {
+        "titolo": "NHK Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/NHK_Symphony_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=vkVFnCqtis8&list=RDvkVFnCqtis8&start_radio=1"
+      },
+      {
+        "titolo": "Singapore Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orchestra_Sinfonica_di_Singapore",
+        "link_youtube": "https://www.youtube.com/watch?v=9S7OUDkiUkc"
+      },
+      {
+        "titolo": "Simón Bolívar Symphony Orchestra of Venezuela",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orquesta_Sinfónica_Simón_Bolívar",
+        "link_youtube": "https://www.youtube.com/watch?v=oLfWPHZzJdQ"
+      },
+      {
+        "titolo": "São Paulo Symphony Orchestra",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Orquestra_Sinfônica_do_Estado_de_São_Paulo",
+        "link_youtube": "https://www.youtube.com/watch?v=IKjCiENbWoU"
+      },
+      {
+        "titolo": "Cape Town Philharmonic Orchestra",
+        "link_wiki_comp": "https://en.m.wikipedia.org/wiki/Cape_Town_Philharmonic_Orchestra",
+        "link_youtube": "https://www.youtube.com/watch?v=dMV_hmYGiDw"
+      },
+      {
+        "titolo": "Africa United Youth Orchestra",
+        "link_wiki_comp": "https://www.carnegiehall.org/Calendar/2024/08/03/Africa-United-Youth-Orchestra-0700PM",
+        "link_youtube": "https://www.youtube.com/watch?v=BNPlaAby6TM"
       }
     ]
   }
