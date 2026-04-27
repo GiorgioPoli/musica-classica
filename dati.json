@@ -5,7 +5,7 @@
     "composizioni": [
       {
         "titolo": "Il sito internet del Canto gregoriano",
-        "link_wiki_comp": "https://www.gregorianum.org/wiki/Pagina_principale",
+        "link_wiki_comp": "gregoriano.html",
         "link_youtube": "https://www.youtube.com/watch?v=GCuDBo4F-Ac&list=RDGCuDBo4F-Ac&start_radio=1"
       }
     ]
@@ -2318,13 +2318,8 @@
   },
   {
     "compositore": "The 20 greatest symphonies",
-    "link_wiki": "https://www.classical-music.com/features/works/20-greatest-symphonies-all-time",
+    "link_wiki": "20sinfonie.html",
     "composizioni": [
-      {
-        "titolo": "Introduzione",
-        "link_wiki_comp": "https://www.classical-music.com/features/works/20-greatest-symphonies-all-time",
-        "link_youtube": "https://www.youtube.com/watch?v=JdzYWtpjNw8&t=17s"
-      },
       {
         "titolo": "1. Beethoven Symphony No. 3 (1803)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Sinfonia_n._3_(Beethoven)",
@@ -2429,13 +2424,8 @@
   },
   {
     "compositore": "The greatest conductor of all time",
-    "link_wiki": "https://www.classical-music.com/features/artists/best-conductor",
+    "link_wiki": "direttori.html",
     "composizioni": [
-      {
-        "titolo": "Introduzione",
-        "link_wiki_comp": "https://www.classical-music.com/features/artists/best-conductor",
-        "link_youtube": "https://www.youtube.com/watch?v=q8o3Sta2AOA"
-      },
       {
         "titolo": "1. Carlos Kleiber (1930–2004)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carlos_Kleiber",
@@ -2477,69 +2467,64 @@
         "link_youtube": "https://www.youtube.com/watch?v=gJ3GvutirCQ"
       },
       {
-        "titolo": "9. Carlo Maria Giulini (1914-2005)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carlo_Maria_Giulini",
-        "link_youtube": "https://www.youtube.com/watch?v=aVJTQcOMLQw"
-      },
-      {
-        "titolo": "10. Pierre Boulez (1925-2016)",
+        "titolo": "9. Pierre Boulez (1925-2016)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pierre_Boulez",
         "link_youtube": "https://www.youtube.com/watch?v=yHHUxoa1DDs&list=RDyHHUxoa1DDs&start_radio=1&t=567s"
       },
       {
-        "titolo": "11. Rafael Kubelik (1914-1996)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rafael_Kubelík",
-        "link_youtube": "https://www.youtube.com/watch?v=76R0N2GN6Jo&list=RD76R0N2GN6Jo&start_radio=1"
+        "titolo": "10. Carlo Maria Giulini (1914-2005)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Carlo_Maria_Giulini",
+        "link_youtube": "https://www.youtube.com/watch?v=aVJTQcOMLQw"
       },
       {
-        "titolo": "12. John Eliot Gardiner (b. 1943)",
+        "titolo": "11. John Eliot Gardiner (1943)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/John_Eliot_Gardiner",
         "link_youtube": "https://www.youtube.com/watch?v=WVeYL-Qhpec"
       },
       {
-        "titolo": "13. John Barbirolli (1899-1970)",
+        "titolo": "12. John Barbirolli (1899-1970)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/John_Barbirolli",
         "link_youtube": "https://www.youtube.com/watch?v=d5Zw8G0heH4&list=RDd5Zw8G0heH4&start_radio=1"
       },
       {
-        "titolo": "14. Ferenc Fricsay (1914-63)",
+        "titolo": "13. Ferenc Fricsay (1914-1963)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Ferenc_Fricsay",
         "link_youtube": "https://www.youtube.com/watch?v=bky5FHEKZjk"
       },
       {
-        "titolo": "15. George Szell (1897-1970)",
+        "titolo": "14. George Szell (1897-1970)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/George_Szell",
         "link_youtube": "https://www.youtube.com/watch?v=YlyUti7BbCY"
       },
       {
-        "titolo": "16. Bernard Haitink (1929-2021)",
+        "titolo": "15. Bernard Haitink (1929-2021)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Bernard_Haitink",
         "link_youtube": "https://www.youtube.com/watch?v=96YRTgqIrec"
       },
       {
-        "titolo": "17. Georg Solti (1912-97)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Georg_Solti",
-        "link_youtube": "https://www.youtube.com/watch?v=nkOiKy6sXfM"
-      },
-      {
-        "titolo": "18. Pierre Monteux (1875-1964)",
+        "titolo": "16. Pierre Monteux (1875-1964)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Pierre_Monteux",
         "link_youtube": "https://www.youtube.com/watch?v=hvVkjFRtgVY&t=1s"
       },
       {
-        "titolo": "19. Marin Alsop (b. 1956)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Marin_Alsop",
-        "link_youtube": "https://www.youtube.com/watch?v=mFRwTpRL3R4&list=RDmFRwTpRL3R4&start_radio=1"
-      },
-      {
-        "titolo": "20. Yevgeny Mravinsky (1903-88)",
+        "titolo": "17. Yevgeny Mravinsky (1903-1988)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Evgenij_Aleksandrovič_Mravinskij",
         "link_youtube": "https://www.youtube.com/watch?v=2hRAp_7r648&list=RD2hRAp_7r648&start_radio=1"
       },
       {
-        "titolo": "21. Eugene Ormandy (1899-1985)",
-        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Eugene_Ormandy",
-        "link_youtube": "https://www.youtube.com/watch?v=YtphY-4xjQw&list=RDYtphY-4xjQw&start_radio=1"
+        "titolo": "18. Colin Davis (1927-2013)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Colin_Davis_(direttore_d'orchestra)",
+        "link_youtube": "https://www.youtube.com/watch?v=1E-qWsJceDk&list=RD1E-qWsJceDk&start_radio=1"
+      },
+      {
+        "titolo": "19. Thomas Beecham (1879-1961)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Thomas_Beecham",
+        "link_youtube": "https://www.youtube.com/watch?v=vA83lt-Kg0M"
+      },
+      {
+        "titolo": "20. Charles Mackerras (1925-2010)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Charles_Mackerras",
+        "link_youtube": "https://www.youtube.com/watch?v=WWJni2qr6d8&list=RDWWJni2qr6d8&start_radio=1"
       },
       {
         "titolo": "Bruno Walter (1876-1962)",
@@ -2552,9 +2537,24 @@
         "link_youtube": "https://www.youtube.com/watch?v=idNJaLp6n0U&list=RDidNJaLp6n0U&start_radio=1"
       },
       {
+        "titolo": "Eugene Ormandy (1899-1985)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Eugene_Ormandy",
+        "link_youtube": "https://www.youtube.com/watch?v=YtphY-4xjQw&list=RDYtphY-4xjQw&start_radio=1"
+      },
+      {
         "titolo": "Willi Boskovsky (1909-1991)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Willi_Boskovsky",
         "link_youtube": "https://www.youtube.com/watch?v=QpgPAwDH5-c"
+      },
+      {
+        "titolo": "Georg Solti (1912-1997)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Georg_Solti",
+        "link_youtube": "https://www.youtube.com/watch?v=nkOiKy6sXfM"
+      },
+      {
+        "titolo": "Rafael Kubelik (1914-1996)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Rafael_Kubelík",
+        "link_youtube": "https://www.youtube.com/watch?v=76R0N2GN6Jo&list=RD76R0N2GN6Jo&start_radio=1"
       },
       {
         "titolo": "Zubin Mehta (1936)",
@@ -2567,6 +2567,11 @@
         "link_youtube": "https://www.youtube.com/watch?v=rOjHhS5MtvA&list=RDrOjHhS5MtvA&start_radio=1&t=169s"
       },
       {
+        "titolo": "Marin Alsop (1956)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Marin_Alsop",
+        "link_youtube": "https://www.youtube.com/watch?v=mFRwTpRL3R4&list=RDmFRwTpRL3R4&start_radio=1"
+      },
+      {
         "titolo": "Daniele Gatti (1961)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Daniele_Gatti",
         "link_youtube": "https://www.youtube.com/watch?v=UNqY38FFQ04&list=RDUNqY38FFQ04&start_radio=1"
@@ -2575,12 +2580,22 @@
         "titolo": "Gustavo Dudamel (1981)",
         "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Gustavo_Dudamel",
         "link_youtube": "https://www.youtube.com/watch?v=NYvEvP2cmdk&list=RDNYvEvP2cmdk&start_radio=1"
+      },
+      {
+        "titolo": "Diego Matheuz (1984)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Diego_Matheuz",
+        "link_youtube": "https://www.youtube.com/watch?v=ZsF_n7BhAlI&list=RDZsF_n7BhAlI&start_radio=1"
+      },
+      {
+        "titolo": "Beatrice Venezi (1990)",
+        "link_wiki_comp": "https://it.m.wikipedia.org/wiki/Beatrice_Venezi",
+        "link_youtube": "https://www.youtube.com/watch?v=eARgVvqgIas"
       }
     ]
   },
   {
     "compositore": "The world’s greatest orchestras",
-    "link_wiki": "https://www.classical-music.com/articles/worlds-best-orchestras",
+    "link_wiki": "orchestre.html",
     "composizioni": [
       {
         "titolo": "Boston Symphony Orchestra",

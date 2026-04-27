@@ -133,11 +133,11 @@
         function configuraIframe(titolo, url, txtR, azioneR, txtL, azioneL) {
             gestisciVisibilita('schermata-dettaglio');
             document.getElementById('titolo-corrente').innerText = titolo;
-            
-            // Forziamo l'URL mobile (.m.)
-            let finalUrl = url.replace('it.wikipedia.org', 'it.m.wikipedia.org');
-            
-            document.getElementById('frame-wiki').src = finalUrl;
+
+            // Rimuoviamo la trasformazione forzata.
+            // Se è un link relativo (es. "gregoriano.html") o un link già pronto, lo usiamo così com'è.
+            document.getElementById('frame-wiki').src = url;
+
             document.getElementById('btn-back').innerText = txtL;
             document.getElementById('btn-back').onclick = azioneL;
             document.getElementById('btn-azione-destra').innerText = txtR;
